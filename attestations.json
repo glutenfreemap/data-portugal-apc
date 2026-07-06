@@ -12,7 +12,8 @@
             "en": "<p>The safest way to get your meal is to go to establishments certified by the Gluten Free Project of the Portuguese Celiac Association (APC), or to catering chains that offer products marked and validated by the APC. <a href=\"https://www.celiacos.org.pt/como-certificar-o-seu-estabelecimento/\" title=\"https://www.celiacos.org.pt/como-certificar-o-seu-estabelecimento/\" target=\"_blank\">more information</a></p>",
             "fr": "<p>Le moyen le plus sûr d'obtenir votre repas est de vous rendre dans des établissements certifiés par le projet sans gluten de l'Association cœliaque portugaise (APC), ou les chaînes de restauration qui proposent des produits marqués et validés par l'APC. <a href=\"https://www.celiacos.org.pt/como-certificar-o-seu-estabelecimento/\" title=\"https://www.celiacos.org.pt/como-certificar-o-seu-estabelecimento/\" target=\"_blank\">informations supplémentaires</a></p>",
             "es": "<p>La forma más segura de conseguir tu comida es acudir a establecimientos certificados por el Proyecto Sin Gluten de la Asociación Portuguesa de Celíacos (APC), o las cadenas de restauración que ofrecen productos marcados y validados por la APC. <a href=\"https://www.celiacos.org.pt/como-certificar-o-seu-estabelecimento/\" title=\"https://www.celiacos.org.pt/como-certificar-o-seu-estabelecimento/\" target=\"_blank\">más información</a></p>"
-        }
+        },
+        "pinColor": 4
     },
     {
         "id": "apc-validated",
@@ -27,6 +28,7 @@
             "en": "Company procedures validated by APC, but without certification for each establishment.",
             "fr": "Procédures de l'entreprise validées par l'APC, mais sans certification pour chaque établissement.",
             "es": "Los procedimientos de la empresa están validados por APC, pero sin certificación para cada establecimiento."
-        }
+        },
+        "pinColor": 6
     }
 ]
