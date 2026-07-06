@@ -1,0 +1,13 @@
+{
+  "name": "Boavista",
+  "address": [
+    "Av. Boavista",
+    "Av. Boavista, 1745",
+    "4100-133 PORTO"
+  ],
+  "region": "porto",
+  "position": {
+    "lat": 41.160219,
+    "lng": -8.644256
+  }
+}

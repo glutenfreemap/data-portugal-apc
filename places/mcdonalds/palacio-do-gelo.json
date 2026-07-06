@@ -1,0 +1,13 @@
+{
+  "name": "Palácio do Gelo",
+  "address": [
+    "Viseu - C.C. Palácio do Gelo",
+    "Palácio do Gelo Shopping,Lj.3.16,Quinta da Alagoa",
+    "3500-606 VISEU"
+  ],
+  "region": "viseu",
+  "position": {
+    "lat": 40.643464,
+    "lng": -7.911117
+  }
+}

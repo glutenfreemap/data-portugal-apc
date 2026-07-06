@@ -1,0 +1,13 @@
+{
+  "name": "Setúbal",
+  "gid": "ChIJD_Pcq7tDGQ0R0WHzrXI9oG8",
+  "address": [
+    "Av. Dr. António Rodrigues Manito 97B",
+    "2900-068 Setúbal"
+  ],
+  "region": "setubal",
+  "position": {
+    "lat": 38.537303,
+    "lng": -8.8945784
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Aveiro - C.C. Glicínias",
+  "address": [
+    "Aveiro Glicínias",
+    "Loteamento das Glicínias,Lt.10,C.C.Glicínias,Lj.43,Aradas",
+    "3810-187 AVEIRO"
+  ],
+  "region": "aveiro",
+  "position": {
+    "lat": 40.627111,
+    "lng": -8.64545
+  }
+}

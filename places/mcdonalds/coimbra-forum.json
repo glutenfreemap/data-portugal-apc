@@ -1,0 +1,13 @@
+{
+  "name": "Coimbra Forum",
+  "address": [
+    "Coimbra Forum",
+    "Centro Comercial Fórum Coimbra, Lj.207, Planalto de Stª Clara",
+    "3044-520 COIMBRA"
+  ],
+  "region": "coimbra",
+  "position": {
+    "lat": 40.211236,
+    "lng": -8.444053
+  }
+}

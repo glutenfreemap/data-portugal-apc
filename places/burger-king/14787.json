@@ -1,0 +1,12 @@
+{
+  "name": "Rua da Juventude, 38 CC Parque Atlantico Loja 1005A",
+  "address": [
+    "Rua da Juventude, 38 CC Parque Atlantico Loja 1005A",
+    "9500-243 Ponta Delgada"
+  ],
+  "region": "acores",
+  "position": {
+    "lat": 37.747684,
+    "lng": -25.675701
+  }
+}

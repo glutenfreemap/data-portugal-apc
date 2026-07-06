@@ -1,0 +1,13 @@
+{
+  "name": "Guarda",
+  "address": [
+    "Guarda",
+    "Quinta do Pinheiro, Rotunda VICEG, S/N",
+    "6300-501"
+  ],
+  "region": "guarda",
+  "position": {
+    "lat": 40.542625,
+    "lng": -7.239719
+  }
+}

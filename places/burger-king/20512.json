@@ -1,0 +1,12 @@
+{
+  "name": "AEROPORTO FRANCISCO SÁ CARNEIRO",
+  "address": [
+    "AEROPORTO FRANCISCO SÁ CARNEIRO",
+    "4470-558 Oporto"
+  ],
+  "region": "porto",
+  "position": {
+    "lat": 41.2421,
+    "lng": -8.6786
+  }
+}

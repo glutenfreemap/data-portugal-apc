@@ -1,0 +1,12 @@
+{
+  "name": "Taveiro",
+  "address": [
+    "Mondego Retail Park S/N",
+    "3045-504 Taveiro"
+  ],
+  "region": "coimbra",
+  "position": {
+    "lat": 40.19178,
+    "lng": -8.51022
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Rua das Linhas de Torres 56",
+  "gid": "ChIJgaly2ohjJA0Rxj6EekqT5l8",
+  "address": [
+    "Rua das Linhas de Torres 56",
+    "4350-214 Porto"
+  ],
+  "region": "porto",
+  "position": {
+    "lat": 41.17002,
+    "lng": -8.571309
+  }
+}

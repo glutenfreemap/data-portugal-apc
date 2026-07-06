@@ -1,0 +1,12 @@
+{
+  "name": "Rua Camilo Castelo Branco, 4400-346 Vila Nova de Gaia",
+  "address": [
+    "Rua Camilo Castelo Branco, 4400-346 Vila Nova de Gaia",
+    "4400-346 Vila Nova de Gaia"
+  ],
+  "region": "porto",
+  "position": {
+    "lat": 41.14146,
+    "lng": -8.63646
+  }
+}

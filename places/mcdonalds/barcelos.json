@@ -1,0 +1,13 @@
+{
+  "name": "Barcelos",
+  "address": [
+    "Barcelos",
+    "Rua Dr. Manuel Pais, Vila Frescainha",
+    "4750-317 BARCELOS"
+  ],
+  "region": "braga",
+  "position": {
+    "lat": 41.538461,
+    "lng": -8.619908
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Saccharum",
+  "gid": "ChIJxaWLoxNRYAwRJpJHpdgrBN8",
+  "attestation": "apc-certified",
+  "address": [
+    "Rua da Serra D'Água",
+    "nº1",
+    "9370-087 Arco da Calheta",
+    "Madeira"
+  ],
+  "region": "madeira",
+  "position": {
+    "lat": 32.7167807,
+    "lng": -17.1684636
+  },
+  "categories": [
+    "hotel"
+  ]
+}

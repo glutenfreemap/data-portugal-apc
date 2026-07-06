@@ -1,0 +1,23 @@
+{
+  "name": "Com Cuore",
+  "description": {
+    "pt": "",
+    "en": "",
+    "fr": "",
+    "es": ""
+  },
+  "gid": "ChIJ3RHB6eNkJA0Rg8lLQkCZaB0",
+  "address": [
+    "Rua Trindade Coelho entrada 10 loja 11",
+    "4050-618 Porto"
+  ],
+  "region": "porto",
+  "position": {
+    "lat": 41.1451924,
+    "lng": -8.611552800000002
+  },
+  "categories": [
+    "bakery"
+  ],
+  "attestation": "apc-certified"
+}

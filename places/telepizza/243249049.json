@@ -1,0 +1,13 @@
+{
+  "name": "Cartaxo",
+  "gid": "ChIJNduEtGLoGA0RnTg4yeo_w-g",
+  "address": [
+    "Rua Batalhoz 98",
+    "2070-071 Cartaxo"
+  ],
+  "region": "santarem",
+  "position": {
+    "lat": 39.16494,
+    "lng": -8.792623599999999
+  }
+}

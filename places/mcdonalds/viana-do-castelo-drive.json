@@ -1,0 +1,13 @@
+{
+  "name": "Viana do Castelo Drive",
+  "address": [
+    "Viana do Castelo Drive",
+    "Estrada da Papanata, nº 535",
+    "4900-470 VIANA DO CASTELO"
+  ],
+  "region": "viana-do-castelo",
+  "position": {
+    "lat": 41.701508,
+    "lng": -8.819006
+  }
+}

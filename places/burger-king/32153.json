@@ -1,0 +1,12 @@
+{
+  "name": "R. de Santa Catarina 312 a 350, 4000-443 Porto",
+  "address": [
+    "R. de Santa Catarina 312 a 350, 4000-443 Porto",
+    "4000-443 Porto"
+  ],
+  "region": "porto",
+  "position": {
+    "lat": 41.149032,
+    "lng": -8.606004
+  }
+}

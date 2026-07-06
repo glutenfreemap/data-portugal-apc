@@ -1,0 +1,13 @@
+{
+  "name": "São João da Madeira",
+  "address": [
+    "São João da Madeira",
+    "Avenida da Liberdade,Travessas",
+    "3700-165 SÃO JOÃO DA MADEIRA"
+  ],
+  "region": "aveiro",
+  "position": {
+    "lat": 40.894178,
+    "lng": -8.480606
+  }
+}

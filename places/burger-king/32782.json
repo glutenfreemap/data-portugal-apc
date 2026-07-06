@@ -1,0 +1,12 @@
+{
+  "name": "Rua Comendador Rainho, nº 818",
+  "address": [
+    "Rua Comendador Rainho, nº 818",
+    "3700-230 São joão da Madeira"
+  ],
+  "region": "aveiro",
+  "position": {
+    "lat": 40.883526,
+    "lng": -8.487805
+  }
+}

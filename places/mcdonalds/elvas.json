@@ -1,0 +1,13 @@
+{
+  "name": "Elvas",
+  "address": [
+    "Elvas",
+    "Avenida do Dia de Portugal 19",
+    "7350-229 Elvas"
+  ],
+  "region": "portalegre",
+  "position": {
+    "lat": 38.880303,
+    "lng": -7.163585
+  }
+}

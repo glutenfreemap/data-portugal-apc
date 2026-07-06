@@ -1,0 +1,12 @@
+{
+  "name": "Covilhã",
+  "address": [
+    "Parque Goldra 9004",
+    "6200-060 Covilha"
+  ],
+  "region": "castelo-branco",
+  "position": {
+    "lat": 40.28545,
+    "lng": -7.50808
+  }
+}

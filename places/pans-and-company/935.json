@@ -1,0 +1,13 @@
+{
+  "name": "AREEIRO ASA SUL",
+  "address": [
+    "Área de Serviço Aeroporto Galp Norte/ Sul",
+    " Av. Marechal Craveiro Lopes",
+    "1800-111 Lisboa"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.779917,
+    "lng": -9.123589
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Sines",
+  "address": [
+    "Sines",
+    "Loteamento Municipal a Norte da R52, Lote 3",
+    "7520-001 SINES"
+  ],
+  "region": "setubal",
+  "position": {
+    "lat": 37.966273,
+    "lng": -8.856195
+  }
+}

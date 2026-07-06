@@ -1,0 +1,12 @@
+{
+  "name": "Almada",
+  "address": [
+    "R D Sancho I 1",
+    "2800-712 Almada"
+  ],
+  "region": "setubal",
+  "position": {
+    "lat": 38.6819,
+    "lng": -9.15229
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Amial",
+  "address": [
+    "Rua Do Amial 283",
+    "4200-060 Porto"
+  ],
+  "region": "porto",
+  "position": {
+    "lat": 41.1754,
+    "lng": -8.61385
+  }
+}

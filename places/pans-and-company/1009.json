@@ -1,0 +1,13 @@
+{
+  "name": "S. João da Madeira",
+  "address": [
+    "C.C. 8ª Avenida Lj. 1039Av. Dr. Renato Araújo",
+    "Aveiro",
+    "3700-346 S. João da Madeira"
+  ],
+  "region": "aveiro",
+  "position": {
+    "lat": 40.8887701,
+    "lng": -8.492176008895807
+  }
+}

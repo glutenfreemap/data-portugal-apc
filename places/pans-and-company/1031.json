@@ -1,0 +1,12 @@
+{
+  "name": "Alegro Alfragide",
+  "address": [
+    "Av. dos Cavaleiros, loja 140",
+    "2794-971 Carnaxide"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.72798225,
+    "lng": -9.219515046207267
+  }
+}

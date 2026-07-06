@@ -1,0 +1,12 @@
+{
+  "name": "Aeroporto de Lisboa (antes da Segurança - T1)",
+  "address": [
+    "Aeroporto de Lisboa (antes da Segurança - T1)",
+    "1700-111 Lisboa"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.770243,
+    "lng": -9.138115
+  }
+}

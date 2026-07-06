@@ -1,0 +1,12 @@
+{
+  "name": "R. de Sampaio Bruno 11, 4000-065 Porto",
+  "address": [
+    "R. de Sampaio Bruno 11, 4000-065 Porto",
+    "4000-065 Porto"
+  ],
+  "region": "porto",
+  "position": {
+    "lat": 41.1467,
+    "lng": -8.61011
+  }
+}

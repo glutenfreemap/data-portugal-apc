@@ -1,0 +1,12 @@
+{
+  "name": "Praia Da Rocha",
+  "address": [
+    "Av Comunidades, V3 Ed Jardins Rocha",
+    "8500-607 Portimao"
+  ],
+  "region": "faro",
+  "position": {
+    "lat": 37.11916,
+    "lng": -8.54452
+  }
+}

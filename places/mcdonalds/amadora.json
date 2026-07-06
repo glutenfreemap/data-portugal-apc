@@ -1,0 +1,13 @@
+{
+  "name": "Amadora",
+  "address": [
+    "Amadora",
+    "C. C. Babilónia, Loja15, Piso 01, Fase E, Av. Gago Coutinho 47",
+    "2700-405 AMADORA"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.759953,
+    "lng": -9.237058
+  }
+}

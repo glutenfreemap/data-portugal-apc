@@ -1,0 +1,13 @@
+{
+  "name": "Aveiro Universidade",
+  "address": [
+    "Aveiro",
+    "Rua das Pombas, Glória",
+    "3810-150 AVEIRO"
+  ],
+  "region": "aveiro",
+  "position": {
+    "lat": 40.632371,
+    "lng": -8.65052
+  }
+}

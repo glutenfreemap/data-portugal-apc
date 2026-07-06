@@ -1,0 +1,13 @@
+{
+  "name": "La Vie Funchal",
+  "address": [
+    "Lj 009 Rua Dr. Brito Câmara, n.º 9",
+    "S. Pedro",
+    "9050-039 Funchal"
+  ],
+  "region": "madeira",
+  "position": {
+    "lat": 32.64772,
+    "lng": -16.91370154791874
+  }
+}

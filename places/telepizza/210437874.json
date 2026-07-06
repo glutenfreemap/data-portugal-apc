@@ -1,0 +1,12 @@
+{
+  "name": "Areeiro",
+  "address": [
+    "Pr Francisco Sa Carneiro 4-A",
+    "1000-159 Lisboa"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.74204,
+    "lng": -9.13393
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Espaço Guimarães",
+  "address": [
+    "Espaço Guimarães",
+    "Espaço Guimarães, Centro Comercial, Rua 25 de Abril, 210 Loja 1.97",
+    "4835-400 GUIMARÃES"
+  ],
+  "region": "braga",
+  "position": {
+    "lat": 41.448826,
+    "lng": -8.344019
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Mem Martins",
+  "address": [
+    "Mem Martins",
+    "Estrada de Sintra, Km14,7",
+    "2725-397 MEM MARTINS"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.780783,
+    "lng": -9.349147
+  }
+}

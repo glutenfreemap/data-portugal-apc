@@ -1,0 +1,12 @@
+{
+  "name": "Seixal",
+  "address": [
+    "Rio Sul Shopping, Loja 1033A Av. Libertadores de Timor Loro Sae Torre da Marinha",
+    "2840-168 Seixal"
+  ],
+  "region": "setubal",
+  "position": {
+    "lat": 38.6120313,
+    "lng": -9.102686422135047
+  }
+}

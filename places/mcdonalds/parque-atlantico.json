@@ -1,0 +1,13 @@
+{
+  "name": "Parque Atlântico",
+  "address": [
+    "Parque Atlântico",
+    "Centro Comercial Parque Atlântico Rua da Juventude, Loja nº 1-037",
+    "9500-211 PONTA DELGADA"
+  ],
+  "region": "acores",
+  "position": {
+    "lat": 37.747574,
+    "lng": -25.675669
+  }
+}

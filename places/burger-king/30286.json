@@ -1,0 +1,13 @@
+{
+  "name": "Rua de Leiria, Alcobaça",
+  "gid": "ChIJMXA297OlGA0RQ4mHFzkdmAE",
+  "address": [
+    "Rua de Leiria, Alcobaça",
+    "2460-059 Alcobaça"
+  ],
+  "region": "leiria",
+  "position": {
+    "lat": 39.545797,
+    "lng": -8.968796
+  }
+}

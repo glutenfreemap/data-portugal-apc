@@ -1,0 +1,12 @@
+{
+  "name": "IKEA Loulé, Av. Algarve, 8125-182 Almancil",
+  "address": [
+    "IKEA Loulé, Av. Algarve, 8125-182 Almancil",
+    "8125-182 Almancil"
+  ],
+  "region": "faro",
+  "position": {
+    "lat": 37.100844,
+    "lng": -8.002968
+  }
+}

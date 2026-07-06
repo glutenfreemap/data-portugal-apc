@@ -1,0 +1,12 @@
+{
+  "name": "Avenida Professor Doutor Egas Moniz, Nº Lote 1",
+  "address": [
+    "Avenida Professor Doutor Egas Moniz, Nº Lote 1",
+    "6000-901 Castelo Branco"
+  ],
+  "region": "castelo-branco",
+  "position": {
+    "lat": 39.807075,
+    "lng": -7.513287
+  }
+}

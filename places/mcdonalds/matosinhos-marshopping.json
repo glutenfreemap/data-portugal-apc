@@ -1,0 +1,13 @@
+{
+  "name": "Matosinhos MarShopping",
+  "address": [
+    "Marshopping (IKEA)",
+    "Av. Arq. Fernando Távora, nº 231Loja 1.53 – Leça da Palmeira",
+    "4450-820 MATOSINHOS"
+  ],
+  "region": "porto",
+  "position": {
+    "lat": 41.209353,
+    "lng": -8.688425
+  }
+}

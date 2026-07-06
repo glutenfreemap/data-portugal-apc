@@ -1,0 +1,13 @@
+{
+  "name": "Leiria Drive",
+  "address": [
+    "Leiria",
+    "Variante Sul/Rotunda Vale dos Lobos (ou Av.Nossa Senhora de Fátima)",
+    "2410-140 LEIRIA"
+  ],
+  "region": "leiria",
+  "position": {
+    "lat": 39.735331,
+    "lng": -8.799719
+  }
+}

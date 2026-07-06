@@ -1,0 +1,13 @@
+{
+  "name": "Guimarães Quintã",
+  "address": [
+    "Guimarães",
+    "Rua Cónego Dr. Manuel Faria",
+    "4800-321 Guimarães"
+  ],
+  "region": "braga",
+  "position": {
+    "lat": 41.449735,
+    "lng": -8.294372
+  }
+}

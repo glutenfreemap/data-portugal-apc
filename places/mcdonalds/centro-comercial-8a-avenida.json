@@ -1,0 +1,13 @@
+{
+  "name": "Centro Comercial 8ª Avenida",
+  "address": [
+    "Centro Comercial 8ª Avenida",
+    "Av. Dr. Renato Araújo, nº 1625",
+    "3700-346 SÃO JOÃO DA MADEIRA"
+  ],
+  "region": "aveiro",
+  "position": {
+    "lat": 40.887772,
+    "lng": -8.491468
+  }
+}

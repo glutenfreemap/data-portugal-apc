@@ -1,0 +1,12 @@
+{
+  "name": "Torres Vedras",
+  "address": [
+    "Arena Shopping, Loja 2,016 Rua António Alves Ferreira, 2",
+    "2560-256 Torres Vedras"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 39.10159915,
+    "lng": -9.253036403956163
+  }
+}

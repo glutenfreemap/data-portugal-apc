@@ -1,0 +1,23 @@
+{
+  "name": "Sam Bolos e Doces Saudáveis",
+  "gid": "ChIJWxTsFIEzGQ0Ry1Oktkwpuc4",
+  "attestation": "apc-certified",
+  "address": [
+    "R. Luís Augusto Palmeirim 14C",
+    "1700-274 Lisboa"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.7552668,
+    "lng": -9.1425764
+  },
+  "description": {
+    "pt": "",
+    "en": "",
+    "fr": "",
+    "es": ""
+  },
+  "categories": [
+    "bakery"
+  ]
+}

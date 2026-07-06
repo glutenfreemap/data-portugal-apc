@@ -1,0 +1,12 @@
+{
+  "name": "Rua Diamantina 259-243, Paranhos",
+  "address": [
+    "Rua Diamantina 259-243, Paranhos",
+    "4350-163 Porto"
+  ],
+  "region": "porto",
+  "position": {
+    "lat": 41.179277,
+    "lng": -8.580384
+  }
+}

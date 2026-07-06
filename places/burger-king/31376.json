@@ -1,0 +1,12 @@
+{
+  "name": "Rua das Lavadeiras, 2415-452 Leiria",
+  "address": [
+    "Rua das Lavadeiras, 2415-452 Leiria",
+    "2415-452 Leiria"
+  ],
+  "region": "leiria",
+  "position": {
+    "lat": 39.754357,
+    "lng": -8.800797
+  }
+}

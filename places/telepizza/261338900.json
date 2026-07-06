@@ -1,0 +1,12 @@
+{
+  "name": "Torres Vedras",
+  "address": [
+    "Av Gen Humberto Delgado 12 E 12-A",
+    "2560-272 Torres Vedras"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 39.08952,
+    "lng": -9.25337
+  }
+}

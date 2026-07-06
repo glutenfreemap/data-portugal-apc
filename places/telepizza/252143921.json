@@ -1,0 +1,12 @@
+{
+  "name": "Santo Tirso",
+  "address": [
+    "Lr Cor Baptista Coelho 47",
+    "4780-370 Santo Triso"
+  ],
+  "region": "porto",
+  "position": {
+    "lat": 41.34278,
+    "lng": -8.47435
+  }
+}

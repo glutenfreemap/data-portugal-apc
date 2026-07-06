@@ -1,0 +1,23 @@
+{
+  "name": "Talho das Manas",
+  "description": {
+    "pt": "",
+    "en": "",
+    "fr": "",
+    "es": ""
+  },
+  "gid": "ChIJj22_NUAvHw0RgV6Y_rZyPG8",
+  "address": [
+    "Largo Luis de Camões 1",
+    "2560-138 Pte. do Rol"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 39.0911329,
+    "lng": -9.319987699999999
+  },
+  "categories": [
+    "butchery"
+  ],
+  "attestation": "apc-certified"
+}

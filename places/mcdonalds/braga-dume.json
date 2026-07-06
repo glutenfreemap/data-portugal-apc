@@ -1,0 +1,13 @@
+{
+  "name": "Braga DUME",
+  "address": [
+    "Braga",
+    "Avenida Dra. Assunção Vasconcelos Chaves;",
+    "4700-010  Braga"
+  ],
+  "region": "braga",
+  "position": {
+    "lat": 41.566284,
+    "lng": -8.440367
+  }
+}

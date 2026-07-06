@@ -1,0 +1,13 @@
+{
+  "name": "Algarve Shopping",
+  "address": [
+    "Guia (Algarve Shopping)",
+    "Algarve Shopping,Lj.1317,Lanka Parque Comercial e Industrial do Algarve,Tavagueira",
+    "8200 ALBUFEIRA"
+  ],
+  "region": "faro",
+  "position": {
+    "lat": 37.127992,
+    "lng": -8.280656
+  }
+}

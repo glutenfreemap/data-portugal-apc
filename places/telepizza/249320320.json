@@ -1,0 +1,13 @@
+{
+  "name": "Tomar",
+  "gid": "ChIJC5K_KqV-GA0RUh8KvPadLMI",
+  "address": [
+    "R. Marquês de Pombal 34",
+    "2300-510 Tomar"
+  ],
+  "region": "santarem",
+  "position": {
+    "lat": 39.6047393,
+    "lng": -8.4100539
+  }
+}

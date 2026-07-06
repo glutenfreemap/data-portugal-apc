@@ -1,0 +1,12 @@
+{
+  "name": "Parede",
+  "address": [
+    "Rua Machado Dos Santos 482-D",
+    "2775-236 Parede"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.69049,
+    "lng": -9.35157
+  }
+}

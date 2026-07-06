@@ -1,0 +1,12 @@
+{
+  "name": "Aveiro",
+  "address": [
+    "R Jose Rabumba 7",
+    "3810-125 Aveiro"
+  ],
+  "region": "aveiro",
+  "position": {
+    "lat": 40.64088,
+    "lng": -8.65544
+  }
+}

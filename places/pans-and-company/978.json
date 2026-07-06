@@ -1,0 +1,12 @@
+{
+  "name": "Guimarães Shopping",
+  "address": [
+    "Loja 441 Alameda Dr. Mariano Felgueiras, ",
+    "Creixomil 4835-075 Guimarães"
+  ],
+  "region": "braga",
+  "position": {
+    "lat": 41.4403652,
+    "lng": -8.302288174496525
+  }
+}

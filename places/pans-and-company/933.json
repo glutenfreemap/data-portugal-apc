@@ -1,0 +1,12 @@
+{
+  "name": "Áqua Portimão",
+  "address": [
+    "Rua de São Pedro 72",
+    "8500-616 Portimão"
+  ],
+  "region": "faro",
+  "position": {
+    "lat": 37.1470306,
+    "lng": -8.543180019810665
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Águeda",
+  "address": [
+    "Águeda",
+    "Rua de Aveiro, 68 ZI EN1 Norte - Barrosinhas - Trofa",
+    "3750-760 ÁGUEDA"
+  ],
+  "region": "aveiro",
+  "position": {
+    "lat": 40.594886,
+    "lng": -8.457528
+  }
+}

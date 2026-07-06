@@ -1,0 +1,13 @@
+{
+  "name": "Estoril",
+  "address": [
+    "Estoril",
+    "Rua do Campo Santo",
+    "2765"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.71398,
+    "lng": -9.386011
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Antas",
+  "address": [
+    "Antas",
+    "Avenida Fernando Magalhães, nº1647/59",
+    "4350-170 PORTO"
+  ],
+  "region": "porto",
+  "position": {
+    "lat": 41.163819,
+    "lng": -8.590003
+  }
+}

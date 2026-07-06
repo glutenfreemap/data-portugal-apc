@@ -1,0 +1,12 @@
+{
+  "name": "Quarteira",
+  "address": [
+    "Av Ceuta Ed Grade",
+    "8125-116 Quarteira"
+  ],
+  "region": "faro",
+  "position": {
+    "lat": 37.06975,
+    "lng": -8.09889
+  }
+}

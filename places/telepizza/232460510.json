@@ -1,0 +1,12 @@
+{
+  "name": "Viseu",
+  "address": [
+    "Palacio Do Gelo 3",
+    "3500-606 Viseu"
+  ],
+  "region": "viseu",
+  "position": {
+    "lat": 40.64425,
+    "lng": -7.9105
+  }
+}

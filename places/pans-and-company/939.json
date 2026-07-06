@@ -1,0 +1,13 @@
+{
+  "name": "Bragança",
+  "address": [
+    "Bragança Shopping, Loja 36/37/38",
+    "Av. Dr. Francisco Sá Carneiro, 2",
+    "5300-252 Bragança"
+  ],
+  "region": "leiria",
+  "position": {
+    "lat": 41.8077671,
+    "lng": -6.7603496
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Avenida Mário Soares nº 161",
+  "gid": "ChIJPfc9JBNfYAwRs3JeOOpDm9g",
+  "address": [
+    "Avenida Mário Soares nº 161",
+    "9000-723 Funchal"
+  ],
+  "region": "madeira",
+  "position": {
+    "lat": 32.647839,
+    "lng": -16.940502
+  }
+}

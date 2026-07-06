@@ -1,0 +1,12 @@
+{
+  "name": "Fafe",
+  "address": [
+    "R. Monsenhor Vieira de Castro,",
+    "4820-142 Fafe"
+  ],
+  "region": "braga",
+  "position": {
+    "lat": 41.447361,
+    "lng": -8.17075
+  }
+}

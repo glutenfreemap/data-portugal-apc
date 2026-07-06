@@ -1,0 +1,13 @@
+{
+  "name": "Rua 25 de Abril, 218",
+  "gid": "ChIJvQUc-HtGJA0R0gs0lB2QCMs",
+  "address": [
+    "Rua 25 de Abril, 218",
+    "4490-479 Povoa de Varzim"
+  ],
+  "region": "porto",
+  "position": {
+    "lat": 41.392592,
+    "lng": -8.754292
+  }
+}

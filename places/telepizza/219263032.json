@@ -1,0 +1,13 @@
+{
+  "name": "Fitares",
+  "gid": "ChIJCZsLRTfQHg0RohWwDsbhwHM",
+  "address": [
+    "Estrada Marquês de Pombal 28",
+    "2635-274 Rio de Mouro"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.7849702,
+    "lng": -9.3153788
+  }
+}

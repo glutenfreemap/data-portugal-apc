@@ -1,0 +1,13 @@
+{
+  "name": "Restelo",
+  "address": [
+    "Restelo",
+    "Rua Gregório Lopes",
+    "1400-195 LISBOA"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.711081,
+    "lng": -9.213736
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Alcochete",
+  "address": [
+    "Alcochete",
+    "Av. Sociedade Imparcial 15 de Janeiro 1898;",
+    "2890-512 Alcochete"
+  ],
+  "region": "setubal",
+  "position": {
+    "lat": 38.751189,
+    "lng": -8.959696
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Flamenga",
+  "gid": "ChIJ5bCnNG4tGQ0RvshnWMZBroI",
+  "address": [
+    "Alameda Salgueiro Maia 4",
+    "2660-329 Santo António dos Cavaleiros"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.808037,
+    "lng": -9.157826
+  }
+}

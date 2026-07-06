@@ -1,0 +1,23 @@
+{
+  "name": "Café do Rio",
+  "description": {
+    "pt": "",
+    "en": "",
+    "fr": "",
+    "es": ""
+  },
+  "gid": "ChIJY5pKVHc0GQ0RjRspsCwgXnc",
+  "address": [
+    "Rua da Alfândega 114",
+    "1100-016 Lisboa"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.708802,
+    "lng": -9.1343489
+  },
+  "categories": [
+    "restaurant"
+  ],
+  "attestation": "apc-certified"
+}

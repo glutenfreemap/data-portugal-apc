@@ -1,0 +1,12 @@
+{
+  "name": "A29, Km 48, Vilar do Paraíso",
+  "address": [
+    "A29, Km 48, Vilar do Paraíso",
+    "4409-501 Vila Nova de Gaia"
+  ],
+  "region": "porto",
+  "position": {
+    "lat": 41.085139,
+    "lng": -8.617667
+  }
+}

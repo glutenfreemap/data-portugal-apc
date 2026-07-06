@@ -1,0 +1,13 @@
+{
+  "name": "Avenida de Lamas 100",
+  "gid": "ChIJY7QnEV__JA0RZgJ-jkTG5Vo",
+  "address": [
+    "Avenida de Lamas 100",
+    "4700-068 Braga"
+  ],
+  "region": "braga",
+  "position": {
+    "lat": 41.578838,
+    "lng": -8.43125
+  }
+}

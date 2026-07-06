@@ -1,0 +1,12 @@
+{
+  "name": "Paços De Ferreira",
+  "address": [
+    "Avenida Dos Templários 454",
+    "4590-509 Paços De Ferreira"
+  ],
+  "region": "porto",
+  "position": {
+    "lat": 41.27536,
+    "lng": -8.37813
+  }
+}

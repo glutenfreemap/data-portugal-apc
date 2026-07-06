@@ -1,0 +1,12 @@
+{
+  "name": "Rua Professor Egas Moniz, Lote 3",
+  "address": [
+    "Rua Professor Egas Moniz, Lote 3",
+    "2625-084 Vialonga"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.872467,
+    "lng": -9.077088
+  }
+}

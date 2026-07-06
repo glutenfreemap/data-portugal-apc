@@ -1,0 +1,13 @@
+{
+  "name": "Belém",
+  "address": [
+    "Belém",
+    "Travessa da Praça,nº2-14",
+    "1300-000 LISBOA"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.697036,
+    "lng": -9.203328
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Torres Novas",
+  "address": [
+    "Torres Novas",
+    "Av. Andrade de Corvo, nº3",
+    "2350-463 TORRES NOVAS"
+  ],
+  "region": "santarem",
+  "position": {
+    "lat": 39.471428,
+    "lng": -8.540217
+  }
+}

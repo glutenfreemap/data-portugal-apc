@@ -1,0 +1,19 @@
+{
+  "name": "Campo de Ourique",
+  "description": {
+    "pt": "Comida ultra-congelada para levar.",
+    "en": "Ultra-frozen food to go.",
+    "fr": "Nourriture surgelée à emporter.",
+    "es": "Comida ultracongelada para llevar."
+  },
+  "gid": "ChIJxTwlf8ozGQ0R-vul4QyPANQ",
+  "address": [
+    "R. Correia Teles 22D",
+    "1350-243 Lisboa"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.7193452,
+    "lng": -9.1654305
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Aeroporto da Madeira, lado Terra, Aerogare Piso 0",
+  "address": [
+    "Aeroporto da Madeira, lado Terra, Aerogare Piso 0",
+    "9100-105 Santa Cruz"
+  ],
+  "region": "madeira",
+  "position": {
+    "lat": 32.6907,
+    "lng": -16.7939
+  }
+}

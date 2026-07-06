@@ -1,0 +1,13 @@
+{
+  "name": "Porto Alameda Shopping",
+  "address": [
+    "Centro Comercial Alameda Shop & Spot",
+    "Rua dos Campeões Europeus nº 28-198, Loja 407",
+    "4350-414 PORTO"
+  ],
+  "region": "porto",
+  "position": {
+    "lat": 41.163544,
+    "lng": -8.584201
+  }
+}

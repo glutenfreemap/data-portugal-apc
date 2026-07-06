@@ -1,0 +1,13 @@
+{
+  "name": "Alegro Setúbal",
+  "address": [
+    "Alegro Setúbal",
+    "Centro Comercial Alegro, Loja 1.001-1.002  Avenida Antero de Quental, 2  S. Sebastião",
+    "2910-394 SETÚBAL"
+  ],
+  "region": "setubal",
+  "position": {
+    "lat": 38.53714,
+    "lng": -8.87605
+  }
+}

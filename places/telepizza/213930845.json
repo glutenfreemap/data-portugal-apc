@@ -1,0 +1,13 @@
+{
+  "name": "Campo De Ourique",
+  "gid": "ChIJjVMmR2EzGQ0R1hM0qaD7k_w",
+  "address": [
+    "R. 4 de Infantaria 46",
+    "1350-274 Lisboa"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.7193794,
+    "lng": -9.1647615
+  }
+}

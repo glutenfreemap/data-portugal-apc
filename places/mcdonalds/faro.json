@@ -1,0 +1,13 @@
+{
+  "name": "Faro",
+  "address": [
+    "Faro",
+    "Rua Conselheiro Bivar nº23 a nº27",
+    "8000-255 FARO"
+  ],
+  "region": "faro",
+  "position": {
+    "lat": 37.016839,
+    "lng": -7.935567
+  }
+}

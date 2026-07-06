@@ -1,0 +1,13 @@
+{
+  "name": "Gondomar",
+  "address": [
+    "Gondomar",
+    "Rua Dr. Carlos Moura Guedes Nº 51",
+    "4420-230 Gondomar"
+  ],
+  "region": "porto",
+  "position": {
+    "lat": 41.136491,
+    "lng": -8.537038
+  }
+}

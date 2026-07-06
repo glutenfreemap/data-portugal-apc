@@ -1,0 +1,17 @@
+{
+  "name": "Alva Bakery",
+  "gid": "ChIJCblaQQAnHw0RnCQQTKs0jYw",
+  "attestation": "apc-certified",
+  "address": [
+    "Av. São Sebastião 4B",
+    "2655-210 Ericeira"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.9688565,
+    "lng": -9.4181153
+  },
+  "categories": [
+    "bakery"
+  ]
+}

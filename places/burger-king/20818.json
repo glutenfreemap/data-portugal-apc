@@ -1,0 +1,12 @@
+{
+  "name": "Rua do Carmo N 97",
+  "address": [
+    "Rua do Carmo N 97",
+    "1200-093 Lisboa"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.712648,
+    "lng": -9.139744
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Falagueira",
+  "gid": "ChIJpRIjrQjNHg0Rz_HdGY0lUig",
+  "address": [
+    "Av. Cmte. Luís António da Silva 11",
+    "2700-201 Amadora"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.7587444,
+    "lng": -9.2287495
+  }
+}

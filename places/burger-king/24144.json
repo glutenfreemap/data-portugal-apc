@@ -1,0 +1,12 @@
+{
+  "name": "Bragança Shopping, Avenida Sá Carneiro 2, Lj 41 e 42",
+  "address": [
+    "Bragança Shopping, Avenida Sá Carneiro 2, Lj 41 e 42",
+    "5300-021 Bragança"
+  ],
+  "region": "braganca",
+  "position": {
+    "lat": 41.807833,
+    "lng": -6.760322
+  }
+}

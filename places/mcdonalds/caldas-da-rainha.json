@@ -1,0 +1,13 @@
+{
+  "name": "Caldas da Rainha",
+  "address": [
+    "Caldas da Rainha",
+    "Rua Prof. Abílio Moniz Barreto, Lt.8",
+    "2500-241 CALDAS DA RAINHA"
+  ],
+  "region": "leiria",
+  "position": {
+    "lat": 39.412536,
+    "lng": -9.134472
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Palmela",
+  "address": [
+    "Palmela",
+    "E.N.252,Km14,Área de Serviço Repsol",
+    "2950-011 PALMELA"
+  ],
+  "region": "setubal",
+  "position": {
+    "lat": 38.566986,
+    "lng": -8.888267
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Braga",
+  "gid": "ChIJVWz3Ysf-JA0RwcM6h3qP-iU",
+  "address": [
+    "R. Araújo Carandá 14",
+    "4715-005 Braga"
+  ],
+  "region": "braga",
+  "position": {
+    "lat": 41.5450875,
+    "lng": -8.4185433
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Telheiras",
+  "address": [
+    "Telheiras",
+    "C.Comercial Continente de Telheiras, Lojas 1-4, Av. Das Nações Unidas",
+    "1600-008 LISBOA"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.764517,
+    "lng": -9.176817
+  }
+}

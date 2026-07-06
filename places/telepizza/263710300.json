@@ -1,0 +1,12 @@
+{
+  "name": "Carregado",
+  "address": [
+    "Qt Colonia Ed Intermache, Lt 2",
+    "2580-491 Carregado"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 39.02855,
+    "lng": -8.98089
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Bobadela",
+  "address": [
+    "Pcta Jose Regio 7",
+    "2695-050 Bobadela"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.80881,
+    "lng": -9.0996
+  }
+}

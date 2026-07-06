@@ -1,0 +1,13 @@
+{
+  "name": "Campo Grande",
+  "address": [
+    "Campo Grande",
+    "Jardim do Campo Grande, Edifício Caleidoscópio",
+    "1700-090 LISBOA"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.756642,
+    "lng": -9.153223
+  }
+}

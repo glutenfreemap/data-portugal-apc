@@ -1,0 +1,23 @@
+{
+  "name": "Rice Me",
+  "description": {
+    "pt": "",
+    "en": "",
+    "fr": "",
+    "es": ""
+  },
+  "gid": "ChIJH5RKyQwzGQ0RlxOx3eZow_k",
+  "address": [
+    "R. Carlos Testa 18A",
+    "1050-046 Lisboa"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.7335122,
+    "lng": -9.1527965
+  },
+  "categories": [
+    "restaurant"
+  ],
+  "attestation": "apc-certified"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Chaves",
+  "address": [
+    "Chaves",
+    "Rotunda do Raio X, Av. D. João I",
+    "5400-323 CHAVES"
+  ],
+  "region": "vila-real",
+  "position": {
+    "lat": 41.732125,
+    "lng": -7.469325
+  }
+}

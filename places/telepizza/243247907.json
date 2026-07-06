@@ -1,0 +1,12 @@
+{
+  "name": "Rio Maior",
+  "address": [
+    "Rua Poeta Ruy Belo 21",
+    "2040-323 Rio Maior"
+  ],
+  "region": "santarem",
+  "position": {
+    "lat": 39.3386644,
+    "lng": -8.9339224
+  }
+}

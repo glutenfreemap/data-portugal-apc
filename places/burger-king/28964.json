@@ -1,0 +1,13 @@
+{
+  "name": "Rua Bento Gonçalves",
+  "gid": "ChIJ1b-47qA1GQ0RXtQ8eJRvibA",
+  "address": [
+    "Rua Bento Gonçalves",
+    "2855-574 Corroios"
+  ],
+  "region": "setubal",
+  "position": {
+    "lat": 38.534262,
+    "lng": -8.868823
+  }
+}

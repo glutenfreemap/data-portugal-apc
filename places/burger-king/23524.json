@@ -1,0 +1,13 @@
+{
+  "name": "Av. Conduta",
+  "gid": "ChIJm9B-_pljJA0RwiETi8sfqbI",
+  "address": [
+    "Av. Conduta",
+    "4435-485 Rio Tinto"
+  ],
+  "region": "porto",
+  "position": {
+    "lat": 41.173207,
+    "lng": -8.55529
+  }
+}

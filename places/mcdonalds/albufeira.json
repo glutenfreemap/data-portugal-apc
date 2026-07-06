@@ -1,0 +1,13 @@
+{
+  "name": "Albufeira",
+  "address": [
+    "Albufeira",
+    "Lugar da Corrieira,Quinta da Bela Vista,Lote E1",
+    "8200-020 ALBUFEIRA"
+  ],
+  "region": "faro",
+  "position": {
+    "lat": 37.091328,
+    "lng": -8.243242
+  }
+}

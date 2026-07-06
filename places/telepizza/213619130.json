@@ -1,0 +1,12 @@
+{
+  "name": "Belém",
+  "address": [
+    "Rua Da Junqueira 470",
+    "1300-341 Lisboa"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.69749,
+    "lng": -9.19834
+  }
+}

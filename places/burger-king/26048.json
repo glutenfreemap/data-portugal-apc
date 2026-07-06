@@ -1,0 +1,13 @@
+{
+  "name": "Rua Arquitecto Viana de Lima nº 2",
+  "gid": "ChIJX1aAXlpLOg0RruBeHMzVXUY",
+  "address": [
+    "Rua Arquitecto Viana de Lima nº 2",
+    "5300-107 Bragança"
+  ],
+  "region": "braganca",
+  "position": {
+    "lat": 41.787316,
+    "lng": -6.773882
+  }
+}

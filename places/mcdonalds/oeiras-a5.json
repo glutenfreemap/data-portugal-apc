@@ -1,0 +1,13 @@
+{
+  "name": "Oeiras - A5",
+  "address": [
+    "A5 - Oeiras",
+    "Área de Serviço GALP A5, Km 9,6, sentido Lisboa/Cascais",
+    "2780-000 OEIRAS"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.714764,
+    "lng": -9.287103
+  }
+}

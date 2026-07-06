@@ -1,0 +1,23 @@
+{
+  "name": "Boca de Leão",
+  "description": {
+    "pt": "",
+    "en": "",
+    "fr": "",
+    "es": ""
+  },
+  "gid": "ChIJi4dz8YZGJA0Rlx2J1XpqCUs",
+  "address": [
+    "R. Dr. Manuel Monteiro 27",
+    "4490-624 Póvoa de Varzim"
+  ],
+  "region": "porto",
+  "position": {
+    "lat": 41.38408,
+    "lng": -8.755871400000002
+  },
+  "categories": [
+    "bakery"
+  ],
+  "attestation": "apc-certified"
+}

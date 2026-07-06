@@ -1,0 +1,23 @@
+{
+  "name": "Conessenza",
+  "description": {
+    "pt": "",
+    "en": "",
+    "fr": "",
+    "es": ""
+  },
+  "gid": "ChIJd3n8GS9nJA0RXXyb6ZMGT_4",
+  "address": [
+    "R. Eng. Duarte Pacheco 277",
+    "4470-174 Maia"
+  ],
+  "region": "porto",
+  "position": {
+    "lat": 41.2356024,
+    "lng": -8.6220923
+  },
+  "categories": [
+    "restaurant"
+  ],
+  "attestation": "apc-certified"
+}

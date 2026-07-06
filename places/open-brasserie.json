@@ -1,0 +1,17 @@
+{
+  "name": "Open Brasserie",
+  "gid": "ChIJv-2rqoIzGQ0RRQszjI2Y6fU",
+  "attestation": "apc-certified",
+  "address": [
+    "R. de Santa Marta 48",
+    "1150-297 Lisboa"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.723175999999995,
+    "lng": -9.145610999999999
+  },
+  "categories": [
+    "restaurant"
+  ]
+}

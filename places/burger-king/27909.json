@@ -1,0 +1,13 @@
+{
+  "name": "Avenida Xanana Gusmão",
+  "gid": "ChIJpd_1BYmJGA0RreRaOiNl58w",
+  "address": [
+    "Avenida Xanana Gusmão",
+    "2350-754 Torres Novas"
+  ],
+  "region": "santarem",
+  "position": {
+    "lat": 39.4676,
+    "lng": -8.53803
+  }
+}

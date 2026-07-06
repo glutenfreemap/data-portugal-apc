@@ -1,0 +1,23 @@
+{
+  "name": "Rice Me Deli",
+  "description": {
+    "pt": "",
+    "en": "",
+    "fr": "",
+    "es": ""
+  },
+  "gid": "ChIJx2I1hiozGQ0RMIlpo_DLWaA",
+  "address": [
+    "Av. António Augusto de Aguiar 124 A",
+    "1050-124 Lisboa"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.73349390000001,
+    "lng": -9.152955299999999
+  },
+  "categories": [
+    "bakery"
+  ],
+  "attestation": "apc-certified"
+}

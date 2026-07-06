@@ -1,0 +1,23 @@
+{
+  "name": "H2otel Congress & Medical Spa",
+  "description": {
+    "pt": "",
+    "en": "",
+    "fr": "",
+    "es": ""
+  },
+  "gid": "ChIJ4zMOGJ0vPQ0RB4g8q4UGpwg",
+  "address": [
+    "Av. das Termas Apartado 459",
+    "6215-674 Unhais da Serra"
+  ],
+  "region": "guarda",
+  "position": {
+    "lat": 40.2661659,
+    "lng": -7.624068099999999
+  },
+  "categories": [
+    "hotel"
+  ],
+  "attestation": "apc-certified"
+}

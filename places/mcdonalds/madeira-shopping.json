@@ -1,0 +1,13 @@
+{
+  "name": "Madeira Shopping",
+  "address": [
+    "Madeira Shopping",
+    "C.C.Madeira Shpping,Lj.1001,Caminho de StªQuitéria,Stº António",
+    "9024 FUNCHAL"
+  ],
+  "region": "madeira",
+  "position": {
+    "lat": 32.659528,
+    "lng": -16.950672
+  }
+}

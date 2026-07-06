@@ -1,0 +1,13 @@
+{
+  "name": "Marinha Grande",
+  "address": [
+    "Marinha Grande",
+    "Rua das Bicas,EN 242",
+    "2430-000 MARINHA GRANDE"
+  ],
+  "region": "leiria",
+  "position": {
+    "lat": 39.734364,
+    "lng": -8.933414
+  }
+}

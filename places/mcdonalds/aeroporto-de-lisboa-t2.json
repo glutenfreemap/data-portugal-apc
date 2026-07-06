@@ -1,0 +1,12 @@
+{
+  "name": "Aeroporto de Lisboa - T2",
+  "address": [
+    "Aeroporto de Lisboa, Terminal 2",
+    "1700-007 LISBOA"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.763964,
+    "lng": -9.135971
+  }
+}

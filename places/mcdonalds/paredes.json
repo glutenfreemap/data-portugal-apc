@@ -1,0 +1,13 @@
+{
+  "name": "Paredes",
+  "address": [
+    "Paredes",
+    "Av Dr. Francisco Sá Carneiro",
+    "4580-104"
+  ],
+  "region": "porto",
+  "position": {
+    "lat": 41.202583,
+    "lng": -8.326918
+  }
+}

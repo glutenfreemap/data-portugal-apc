@@ -1,0 +1,13 @@
+{
+  "name": "Rua 5 de Outubro",
+  "gid": "ChIJr6Z7DR5EJA0RppqiHyeEdIA",
+  "address": [
+    "Rua 5 de Outubro",
+    "4480-732 Vila do conde"
+  ],
+  "region": "porto",
+  "position": {
+    "lat": 41.363992,
+    "lng": -8.74726
+  }
+}

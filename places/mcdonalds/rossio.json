@@ -1,0 +1,13 @@
+{
+  "name": "Rossio",
+  "address": [
+    "Rossio",
+    "Praça D.Pedro IV, 81-83",
+    "1100-202 LISBOA"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.714325,
+    "lng": -9.139022
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Estrada Real nº 4005",
+  "gid": "ChIJvexGqRQ7GQ0RW-M8bHugZaE",
+  "address": [
+    "Estrada Real nº 4005",
+    "2890-155 Alcochete"
+  ],
+  "region": "setubal",
+  "position": {
+    "lat": 38.74548,
+    "lng": -8.93107
+  }
+}

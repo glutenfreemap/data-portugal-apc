@@ -1,0 +1,13 @@
+{
+  "name": "Tomar",
+  "address": [
+    "Tomar",
+    "R. Coronel Garcês Teixeira, 49B",
+    "2300-463 TOMAR"
+  ],
+  "region": "santarem",
+  "position": {
+    "lat": 39.603254,
+    "lng": -8.398367
+  }
+}

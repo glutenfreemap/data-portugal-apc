@@ -1,0 +1,12 @@
+{
+  "name": "Guarda",
+  "address": [
+    "R Batalha Reis 1",
+    "6300-668 Guarda"
+  ],
+  "region": "guarda",
+  "position": {
+    "lat": 40.53405,
+    "lng": -7.27127
+  }
+}

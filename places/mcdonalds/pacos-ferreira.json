@@ -1,0 +1,13 @@
+{
+  "name": "Paços Ferreira",
+  "address": [
+    "Paços de Ferreira - Ferrara Plaza",
+    "Centro Comercial Ferrara plaza,Lj.2.33 e 2.34,Rua das Pedreiras,nº36,Carvalhosa",
+    "4590-046 PAÇOS DE FERREIRA"
+  ],
+  "region": "porto",
+  "position": {
+    "lat": 41.284394,
+    "lng": -8.360919
+  }
+}

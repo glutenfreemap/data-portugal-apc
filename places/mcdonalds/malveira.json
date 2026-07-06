@@ -1,0 +1,13 @@
+{
+  "name": "Malveira",
+  "address": [
+    "Malveira",
+    "EN 8, Alto da Lagoa",
+    "2665-243 Malveira"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.937218,
+    "lng": -9.252329
+  }
+}

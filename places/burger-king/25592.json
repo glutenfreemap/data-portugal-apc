@@ -1,0 +1,12 @@
+{
+  "name": "Avenida Dr Julio Filipe Almeida Carrapato N 121-A",
+  "address": [
+    "Avenida Dr Julio Filipe Almeida Carrapato N 121-A",
+    "8000-064 Faro"
+  ],
+  "region": "faro",
+  "position": {
+    "lat": 37.020494,
+    "lng": -7.923747
+  }
+}

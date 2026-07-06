@@ -1,0 +1,12 @@
+{
+  "name": "Quarteira",
+  "address": [
+    "Av. Francisco Sá Carneiro, Lote 24",
+    "8125-616 Quarteira"
+  ],
+  "region": "faro",
+  "position": {
+    "lat": 37.067474,
+    "lng": -8.099492
+  }
+}

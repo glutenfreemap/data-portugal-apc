@@ -1,0 +1,13 @@
+{
+  "name": "Braga Parque",
+  "address": [
+    "Braga Parque",
+    "C.C Comercial Braga Parque, Loja 300, Quinta dos Congregados",
+    "4710-427 Braga BRAGA"
+  ],
+  "region": "braga",
+  "position": {
+    "lat": 41.558371,
+    "lng": -8.406787
+  }
+}

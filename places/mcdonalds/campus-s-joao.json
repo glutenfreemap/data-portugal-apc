@@ -1,0 +1,13 @@
+{
+  "name": "Campus S. João",
+  "address": [
+    "Galerias Campus S. João",
+    "Galerias Campus S.João,Lj.207/208,Rua Dr.Plácido da Costa",
+    "4200-450 PORTO"
+  ],
+  "region": "porto",
+  "position": {
+    "lat": 41.180133,
+    "lng": -8.604247
+  }
+}

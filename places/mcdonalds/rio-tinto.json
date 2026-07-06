@@ -1,0 +1,13 @@
+{
+  "name": "Rio Tinto",
+  "address": [
+    "Rio Tinto",
+    "Travessa São Sebastião, nº 34",
+    "4435-443 RIO TINTO"
+  ],
+  "region": "porto",
+  "position": {
+    "lat": 41.173578,
+    "lng": -8.552578
+  }
+}

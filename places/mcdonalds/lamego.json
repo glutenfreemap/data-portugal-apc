@@ -1,0 +1,13 @@
+{
+  "name": "Lamego",
+  "address": [
+    "Lamego",
+    "Estrada Nacional 226, Lugar de Rina, 5100-196 Lamego",
+    "5100-196 Lamego"
+  ],
+  "region": "viseu",
+  "position": {
+    "lat": 41.090555,
+    "lng": -7.799509
+  }
+}

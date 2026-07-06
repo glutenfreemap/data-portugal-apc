@@ -1,0 +1,13 @@
+{
+  "name": "Algés",
+  "address": [
+    "Algés",
+    "Rua Damião de Góis,nº32A,B e C",
+    "1495-043 ALGÉS"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.699686,
+    "lng": -9.228178
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Castelo Branco",
+  "address": [
+    "C.C. Fórum Castelo Branco, Lj. 120",
+    "Cruz do Montalvão",
+    "6000-198 Castelo Branco"
+  ],
+  "region": "castelo-branco",
+  "position": {
+    "lat": 39.807839799999996,
+    "lng": -7.514801859227127
+  }
+}

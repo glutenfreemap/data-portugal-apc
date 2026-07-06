@@ -1,0 +1,13 @@
+{
+  "name": "Sesimbra",
+  "gid": "ChIJifbWliRNGQ0R0bTJ66RCV28",
+  "address": [
+    "Rua da Almoínha 6",
+    "2970-037 Santana"
+  ],
+  "region": "setubal",
+  "position": {
+    "lat": 38.4621722,
+    "lng": -9.1046713
+  }
+}

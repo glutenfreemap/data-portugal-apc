@@ -1,0 +1,13 @@
+{
+  "name": "Funchal Av. do Mar",
+  "address": [
+    "Funchal - Av.do Mar",
+    "Av. Do Mar, nº2",
+    "9000-054 FUNCHAL"
+  ],
+  "region": "madeira",
+  "position": {
+    "lat": 32.647094,
+    "lng": -16.909175
+  }
+}

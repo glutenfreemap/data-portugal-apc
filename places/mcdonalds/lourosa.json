@@ -1,0 +1,13 @@
+{
+  "name": "Lourosa",
+  "address": [
+    "Lourosa",
+    "Estrada nacional 1",
+    "4535-013 LOUROSA"
+  ],
+  "region": "aveiro",
+  "position": {
+    "lat": 40.977792,
+    "lng": -8.536636
+  }
+}

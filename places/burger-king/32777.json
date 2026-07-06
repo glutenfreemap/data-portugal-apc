@@ -1,0 +1,12 @@
+{
+  "name": "Avenida Almirante Reis 86-B, 1170-096 Lisboa",
+  "address": [
+    "Avenida Almirante Reis 86-B, 1170-096 Lisboa",
+    "1170-096 Lisboa"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.729169,
+    "lng": -9.13452
+  }
+}

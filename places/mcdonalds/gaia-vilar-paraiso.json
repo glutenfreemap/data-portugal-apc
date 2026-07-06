@@ -1,0 +1,13 @@
+{
+  "name": "Gaia Vilar Paraiso",
+  "address": [
+    "Vila Nova de Gaia",
+    "Rua José Gomes Soares 4405-520",
+    "4405-520 Gaia"
+  ],
+  "region": "porto",
+  "position": {
+    "lat": 41.108552,
+    "lng": -8.620964
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Porto de Mós",
+  "address": [
+    "Porto de Mós",
+    "Nacional 1 - Km 107, 7, Calvaria de Cima",
+    "2480-060"
+  ],
+  "region": "leiria",
+  "position": {
+    "lat": 39.62524,
+    "lng": -8.85579
+  }
+}

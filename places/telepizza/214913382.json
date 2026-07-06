@@ -1,0 +1,13 @@
+{
+  "name": "Amadora",
+  "gid": "ChIJA5aGBKTNHg0RuphMWskL1EQ",
+  "address": [
+    "Av. Pedro Álvares Cabral 3",
+    "2700-646 Amadora"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.7620266,
+    "lng": -9.240114799999999
+  }
+}

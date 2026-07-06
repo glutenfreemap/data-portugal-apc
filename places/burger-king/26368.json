@@ -1,0 +1,13 @@
+{
+  "name": "Estrada Nacional nº 8 Malveira",
+  "gid": "ChIJ-fxLPxzVHg0R0wQVO0SxFSM",
+  "address": [
+    "Estrada Nacional nº 8 Malveira",
+    "2665-218 Malveira"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.9305,
+    "lng": -9.25195
+  }
+}

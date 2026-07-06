@@ -1,0 +1,12 @@
+{
+  "name": "Rua do Poente 2, 2440-462 Batalha",
+  "address": [
+    "Rua do Poente 2, 2440-462 Batalha",
+    "2440-462 Batalha"
+  ],
+  "region": "leiria",
+  "position": {
+    "lat": 39.645305,
+    "lng": -8.842854
+  }
+}

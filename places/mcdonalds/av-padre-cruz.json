@@ -1,0 +1,13 @@
+{
+  "name": "Av. Padre Cruz",
+  "address": [
+    "Av. Padre Cruz - BP Estádio de Alvalade",
+    "Av. Padre Cruz, Posto de Abastecimento BP",
+    "1600-000 LISBOA"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.762825,
+    "lng": -9.163553
+  }
+}

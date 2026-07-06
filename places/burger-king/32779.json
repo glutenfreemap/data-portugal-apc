@@ -1,0 +1,12 @@
+{
+  "name": "Av. De Diogo Leite 24",
+  "address": [
+    "Av. De Diogo Leite 24",
+    "4400-111 Vila nova de Gaia"
+  ],
+  "region": "porto",
+  "position": {
+    "lat": 41.137253,
+    "lng": -8.614882
+  }
+}

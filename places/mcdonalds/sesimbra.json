@@ -1,0 +1,13 @@
+{
+  "name": "Sesimbra",
+  "address": [
+    "Sesimbra",
+    "Rua da Charneca nº 39, Venda Nova, Sesimbra",
+    "2970-841 Sesimbra"
+  ],
+  "region": "setubal",
+  "position": {
+    "lat": 38.478557,
+    "lng": -9.10245
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Feira Drive",
+  "address": [
+    "St. Maria da Feira",
+    "Hipermercado Feira Nova, Lugar da Cruz",
+    "4520-195 SANTA MARIA DA FEIRA"
+  ],
+  "region": "aveiro",
+  "position": {
+    "lat": 40.922682,
+    "lng": -8.564873
+  }
+}

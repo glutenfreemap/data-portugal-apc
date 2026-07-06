@@ -1,0 +1,13 @@
+{
+  "name": "Colombo",
+  "address": [
+    "C.C. Colombo",
+    "C. C. Colombo, Av.dos Lusiadas, Lj.2112",
+    "1500-392 Lisboa LISBOA"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.753997,
+    "lng": -9.189786
+  }
+}

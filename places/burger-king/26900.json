@@ -1,0 +1,13 @@
+{
+  "name": "Rua Fernando Palha 24, 2600-277, Vila Franca de Xira, Portugal",
+  "gid": "ChIJieM0GisnGQ0RteQPdZV1E9g",
+  "address": [
+    "Rua Fernando Palha 24, 2600-277, Vila Franca de Xira, Portugal",
+    "2600-277 Vila Franca de Xira"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.97445,
+    "lng": -8.98031
+  }
+}

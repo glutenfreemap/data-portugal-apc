@@ -1,0 +1,13 @@
+{
+  "name": "Alma Shopping",
+  "address": [
+    "Centro Comercial Alma Shopping",
+    "Centro Comercial Alma Shopping Loja 303",
+    "3030-327 COIMBRA"
+  ],
+  "region": "coimbra",
+  "position": {
+    "lat": 40.204586,
+    "lng": -8.40765
+  }
+}

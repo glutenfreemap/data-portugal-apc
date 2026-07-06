@@ -1,0 +1,13 @@
+{
+  "name": "Alcanena",
+  "gid": "ChIJBzisJ_iRGA0RBeOlym9zG3Q",
+  "address": [
+    "R. João da Silva Nazário 253",
+    "2380-092 Alcanena"
+  ],
+  "region": "santarem",
+  "position": {
+    "lat": 39.4569495,
+    "lng": -8.6687802
+  }
+}

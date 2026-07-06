@@ -1,0 +1,19 @@
+{
+  "name": "Estrada da Beira nª485",
+  "gid": "ChIJR9jLSY_5Ig0RI_TV6F6VF2Y",
+  "address": [
+    "Estrada da Beira nª485",
+    "3030-173 Coimbra"
+  ],
+  "region": "coimbra",
+  "position": {
+    "lat": 40.196192,
+    "lng": -8.402355
+  },
+  "fixes": {
+    "position": {
+      "lat": 40.196192,
+      "lng": -8.402355
+    }
+  }
+}

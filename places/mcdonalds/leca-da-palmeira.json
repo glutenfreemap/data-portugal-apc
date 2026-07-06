@@ -1,0 +1,13 @@
+{
+  "name": "Leça da Palmeira",
+  "address": [
+    "Leça da Palmeira",
+    "Av. Liberdade s/n",
+    "4450-718 MATOSINHOS"
+  ],
+  "region": "porto",
+  "position": {
+    "lat": 41.19255,
+    "lng": -8.705814
+  }
+}

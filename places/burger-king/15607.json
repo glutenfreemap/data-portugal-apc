@@ -1,0 +1,12 @@
+{
+  "name": "Fórum Coimbra, Av. José Bonifácio de Andrade e Silva 1",
+  "address": [
+    "Fórum Coimbra, Av. José Bonifácio de Andrade e Silva 1",
+    "3040-389 Coimbra"
+  ],
+  "region": "coimbra",
+  "position": {
+    "lat": 40.211081,
+    "lng": -8.443828
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Pombal",
+  "address": [
+    "Estrada Nacional n.º 1 – Vale Courelas, Aduguete",
+    "3100-346"
+  ],
+  "region": "leiria",
+  "position": {
+    "lat": 39.92375,
+    "lng": -8.6285
+  }
+}

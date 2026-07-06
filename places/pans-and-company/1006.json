@@ -1,0 +1,12 @@
+{
+  "name": "Parque Atlântico Açores",
+  "address": [
+    "Rua da Juventude, 38 Loja 1005 B",
+    "9500-210 Ponta delgada"
+  ],
+  "region": "acores",
+  "position": {
+    "lat": 37.747825,
+    "lng": -25.675652787668547
+  }
+}

@@ -1,0 +1,65 @@
+[
+    {
+        "id": "take-away",
+        "name": {
+            "pt": "Take-away",
+            "en": "Take-away",
+            "fr": "Take-away",
+            "es": "Take-away"
+        }
+    },
+    {
+        "id": "restaurant",
+        "name": {
+            "pt": "Restaurante",
+            "en": "Restaurant",
+            "fr": "Restaurant",
+            "es": "Restaurante"
+        }
+    },
+    {
+        "id": "fast-food",
+        "name": {
+            "pt": "Fast-food",
+            "en": "Fast-food",
+            "fr": "Fast-food",
+            "es": "Comida rápida"
+        }
+    },
+    {
+        "id": "bakery",
+        "name": {
+            "pt": "Pastelaria",
+            "en": "Bakery",
+            "fr": "Pâtisserie",
+            "es": "Pastelería"
+        }
+    },
+    {
+        "id": "ice-cream",
+        "name": {
+            "pt": "Gelataria",
+            "en": "Ice Cream Parlor",
+            "fr": "Glacier",
+            "es": "Heladería"
+        }
+    },
+    {
+        "id": "butchery",
+        "name": {
+            "pt": "Talho",
+            "en": "Butchery",
+            "fr": "Boucherie",
+            "es": "Carnicería"
+        }
+    },
+    {
+        "id": "hotel",
+        "name": {
+            "pt": "Hotel",
+            "en": "Hotel",
+            "fr": "Hotel",
+            "es": "Hotel"
+        }
+    }
+]

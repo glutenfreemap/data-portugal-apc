@@ -1,0 +1,13 @@
+{
+  "name": "Benfica",
+  "gid": "ChIJhY-JPyTNHg0RoW0LSdxn6D4",
+  "address": [
+    "R. Maria Lamas 4",
+    "1500-438 Lisboa"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.7561076,
+    "lng": -9.205423999999999
+  }
+}

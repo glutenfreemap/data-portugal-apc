@@ -1,0 +1,13 @@
+{
+  "name": "S. Dom Benfica",
+  "gid": "ChIJkwll6yozGQ0RnQTpGMunEaU",
+  "address": [
+    "R. Prof. Reinaldo dos Santos 22",
+    "1500-506 Lisboa"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.7497234,
+    "lng": -9.1881589
+  }
+}

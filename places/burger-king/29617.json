@@ -1,0 +1,13 @@
+{
+  "name": "Rua de Belem 10 a 16",
+  "gid": "ChIJ6Se9ptLLHg0ROEOkuVPHK3s",
+  "address": [
+    "Rua de Belem 10 a 16",
+    "1300-004 Lisboa"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.697339,
+    "lng": -9.20207
+  }
+}

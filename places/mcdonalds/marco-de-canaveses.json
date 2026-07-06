@@ -1,0 +1,13 @@
+{
+  "name": "Marco de Canaveses",
+  "address": [
+    "Marco de Canaveses",
+    "Avenida Sta. Teresa do Menino Jesus, Lote 1Lugar do Talegre",
+    "4630-446 MARCO DE CANAVESES"
+  ],
+  "region": "porto",
+  "position": {
+    "lat": 41.178241,
+    "lng": -8.151968
+  }
+}

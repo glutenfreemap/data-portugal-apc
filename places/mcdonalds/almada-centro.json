@@ -1,0 +1,13 @@
+{
+  "name": "Almada Centro",
+  "address": [
+    "Almada",
+    "Galeria Comercial do Parque Urbano Comandante Júlio Ferraz",
+    "2800-199 ALMADA"
+  ],
+  "region": "setubal",
+  "position": {
+    "lat": 38.678919,
+    "lng": -9.156922
+  }
+}

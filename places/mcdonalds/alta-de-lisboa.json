@@ -1,0 +1,12 @@
+{
+  "name": "Alta de Lisboa",
+  "address": [
+    "R. Hermínio da Palma Inácio",
+    "1750-114 Lisboa"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.787264,
+    "lng": -9.147814
+  }
+}

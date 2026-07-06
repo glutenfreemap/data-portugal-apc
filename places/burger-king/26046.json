@@ -1,0 +1,12 @@
+{
+  "name": "Rua São Paulo da Cruz",
+  "address": [
+    "Rua São Paulo da Cruz",
+    "4520-249 Santa Maria da Feira"
+  ],
+  "region": "aveiro",
+  "position": {
+    "lat": 40.925826,
+    "lng": -8.559796
+  }
+}

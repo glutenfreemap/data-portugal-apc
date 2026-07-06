@@ -1,0 +1,12 @@
+{
+  "name": "El Corte Inglés",
+  "address": [
+    "Av. António Augusto de Aguiar 31",
+    "1069-413 Lisboa"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.7335417,
+    "lng": -9.1536869
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Ovar",
+  "address": [
+    "Ovar",
+    "Estrada de S. João",
+    "3880-705 Ovar"
+  ],
+  "region": "aveiro",
+  "position": {
+    "lat": 40.865504,
+    "lng": -8.611175
+  }
+}

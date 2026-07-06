@@ -1,0 +1,13 @@
+{
+  "name": "Mafra",
+  "address": [
+    "Mafra",
+    "Av. Dr. Francisco Sá Carneiro, 14",
+    "2640-486 MAFRA"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.9429,
+    "lng": -9.342236
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "S. João Da Madeira",
+  "address": [
+    "Av Renato Araujo 1876",
+    "3700-241 Sao Joao Da Madeira"
+  ],
+  "region": "aveiro",
+  "position": {
+    "lat": 40.89135,
+    "lng": -8.49307
+  }
+}

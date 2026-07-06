@@ -1,0 +1,23 @@
+{
+  "name": "Pena Park Hotel",
+  "description": {
+    "pt": "",
+    "en": "",
+    "fr": "",
+    "es": ""
+  },
+  "gid": "ChIJJ7y5f6PSJA0Rc0Z5kiqRhjc",
+  "address": [
+    "Rua do Complexo Turístico de Lamelas, 1",
+    "4870-110 Ribeira de Pena"
+  ],
+  "region": "vila-real",
+  "position": {
+    "lat": 41.50402919999999,
+    "lng": -7.801981499999999
+  },
+  "categories": [
+    "hotel"
+  ],
+  "attestation": "apc-certified"
+}

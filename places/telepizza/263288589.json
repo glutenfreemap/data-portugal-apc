@@ -1,0 +1,13 @@
+{
+  "name": "Vila Franca De Xira",
+  "gid": "ChIJHd5y078nGQ0R3sAdn0y-fBs",
+  "address": [
+    "R. 1º de Dezembro 59",
+    "2600-135 Vila Franca de Xira"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.9529561,
+    "lng": -8.9882112
+  }
+}

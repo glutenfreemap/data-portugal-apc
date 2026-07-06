@@ -1,0 +1,13 @@
+{
+  "name": "Spacio Shopping",
+  "address": [
+    "Olivais (Spacio Shopping)",
+    "Olivais Shopping Center, Lojas 215/216, Rua Cidade de Bolama",
+    "1800-000 LISBOA"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.761894,
+    "lng": -9.114864
+  }
+}

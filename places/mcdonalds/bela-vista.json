@@ -1,0 +1,13 @@
+{
+  "name": "Bela Vista",
+  "address": [
+    "Avenida Santo Condestável",
+    "C. C. da Bela Vista, Lojas 9 e 10, Av. Santo Condestável -Via central de Chelas",
+    "1900–806 Lisboa LISBOA"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.749711,
+    "lng": -9.116428
+  }
+}

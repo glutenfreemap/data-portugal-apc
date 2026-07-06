@@ -1,0 +1,13 @@
+{
+  "name": "Alegro Sintra",
+  "address": [
+    "IC19 Alto do Forte",
+    "Loja 2.07",
+    "2635-018 Rio de Mouro"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.7751032,
+    "lng": -9.3401132192272
+  }
+}

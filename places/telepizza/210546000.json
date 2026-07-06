@@ -1,0 +1,12 @@
+{
+  "name": "Alcabideche",
+  "address": [
+    "R Cesaltina Fialho Gouveia 35",
+    "2645-038 Alcabideche"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.7333,
+    "lng": -9.40984
+  }
+}

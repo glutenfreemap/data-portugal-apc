@@ -1,0 +1,13 @@
+{
+  "name": "Coimbra Solum",
+  "address": [
+    "Coimbra 2",
+    "Gaveto da Rua João de Deus com a Rua Feliciano Castilho",
+    "3030-327 COIMBRA"
+  ],
+  "region": "coimbra",
+  "position": {
+    "lat": 40.204108,
+    "lng": -8.403936
+  }
+}

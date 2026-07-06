@@ -1,0 +1,13 @@
+{
+  "name": "Rua professor Carlos Alberto Mota Pinto, 79",
+  "gid": "ChIJtWqrOm9mIg0RiNe3QM3evOw",
+  "address": [
+    "Rua professor Carlos Alberto Mota Pinto, 79",
+    "3100-492 Pombal"
+  ],
+  "region": "leiria",
+  "position": {
+    "lat": 39.920353,
+    "lng": -8.629145
+  }
+}

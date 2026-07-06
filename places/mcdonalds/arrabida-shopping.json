@@ -1,0 +1,13 @@
+{
+  "name": "Arrábida Shopping",
+  "address": [
+    "Arrábida Shopping",
+    "Arrábida Shopping - Praceta Henrique Moreira, 244 – Afurada",
+    "4400-346 VILA NOVA DE GAIA"
+  ],
+  "region": "porto",
+  "position": {
+    "lat": 41.141511,
+    "lng": -8.636397
+  }
+}

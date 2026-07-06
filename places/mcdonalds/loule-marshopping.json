@@ -1,0 +1,13 @@
+{
+  "name": "Loulé Marshopping",
+  "address": [
+    "Mar Shopping Loulé",
+    "Centro Comercial Mar Shopping Loulé, Lj 1.32, Av. Do Algarve",
+    "8135-182 ALMANCIL"
+  ],
+  "region": "faro",
+  "position": {
+    "lat": 37.09859,
+    "lng": -7.995924
+  }
+}

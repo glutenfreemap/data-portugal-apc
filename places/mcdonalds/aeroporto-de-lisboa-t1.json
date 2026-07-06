@@ -1,0 +1,13 @@
+{
+  "name": "Aeroporto de Lisboa - T1",
+  "address": [
+    "Aeroporto",
+    "Aeroporto de Lisboa, Sala de Partidas Internacionais",
+    "1700-007 LISBOA"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.768956,
+    "lng": -9.129578
+  }
+}

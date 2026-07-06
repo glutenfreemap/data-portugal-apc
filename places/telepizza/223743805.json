@@ -1,0 +1,13 @@
+{
+  "name": "Santo Ovídio",
+  "gid": "ChIJ27Yc6Cx7JA0Rl9RamC8ouGo",
+  "address": [
+    "R. de Soares dos Reis 528",
+    "4400-315 Porto"
+  ],
+  "region": "porto",
+  "position": {
+    "lat": 41.118038,
+    "lng": -8.6084916
+  }
+}

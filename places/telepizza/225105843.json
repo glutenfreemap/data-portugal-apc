@@ -1,0 +1,12 @@
+{
+  "name": "Antas",
+  "address": [
+    "Rua Do Amparo 217",
+    "4350-034 Porto"
+  ],
+  "region": "porto",
+  "position": {
+    "lat": 41.1562,
+    "lng": -8.59444
+  }
+}

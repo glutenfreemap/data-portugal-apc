@@ -1,0 +1,23 @@
+{
+  "name": "O Grão Da Mesma Mó",
+  "description": {
+    "pt": "",
+    "en": "",
+    "fr": "",
+    "es": ""
+  },
+  "gid": "ChIJZek67UjlGQ0RbGmMLu7aMqU",
+  "address": [
+    "Alcarcova de Baixo 45",
+    "7000-841 Évora"
+  ],
+  "region": "evora",
+  "position": {
+    "lat": 38.5704542,
+    "lng": -7.908417899999998
+  },
+  "categories": [
+    "restaurant"
+  ],
+  "attestation": "apc-certified"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Parque das Nações",
+  "description": {
+    "pt": "",
+    "en": "",
+    "fr": "",
+    "es": ""
+  },
+  "gid": "ChIJSTggDKAxGQ0RxSCAPAnWbP0",
+  "address": [
+    "Alameda dos Oceanos 41F",
+    "1990-203 Lisboa"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.7632256,
+    "lng": -9.0969204
+  },
+  "attestation": "apc-certified"
+}

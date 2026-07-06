@@ -1,0 +1,13 @@
+{
+  "name": "Torres Vedras",
+  "address": [
+    "Torres Vedras",
+    "Rua Projectada,Conquinha",
+    "2560-000 TORRES VEDRAS"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 39.082778,
+    "lng": -9.262133
+  }
+}

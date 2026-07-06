@@ -1,0 +1,12 @@
+{
+  "name": "ESTRADA NACIONAL N10 35",
+  "address": [
+    "ESTRADA NACIONAL N10 35",
+    "2625-000 Póvoa Santa Iria"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.858675,
+    "lng": -9.067981
+  }
+}

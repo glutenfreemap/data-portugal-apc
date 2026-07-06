@@ -1,0 +1,12 @@
+{
+  "name": "Viana do Castelo",
+  "address": [
+    "Estação Viana Shopping, Loja 2046Av. Humberto Delgado, 101",
+    "4900-317 Viana do Castelo"
+  ],
+  "region": "viana-do-castelo",
+  "position": {
+    "lat": 41.6948402,
+    "lng": -8.832702707938076
+  }
+}

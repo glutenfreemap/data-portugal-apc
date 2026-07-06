@@ -1,0 +1,14 @@
+{
+  "name": "Braga Retail",
+  "gid": "ChIJLwaHdIX-JA0RQqN3CEyLKzk",
+  "address": [
+    "Bragaretail",
+    "Quinta Passos S. Vitor",
+    "4713-426 Braga"
+  ],
+  "region": "braga",
+  "position": {
+    "lat": 41.5647172,
+    "lng": -8.4063312
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Avenida Emídio Navarro N 36",
+  "address": [
+    "Avenida Emídio Navarro N 36",
+    "3000-150 Coimbra"
+  ],
+  "region": "coimbra",
+  "position": {
+    "lat": 40.206731,
+    "lng": -8.428811
+  }
+}

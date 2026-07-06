@@ -1,0 +1,12 @@
+{
+  "name": "A8 Norte",
+  "address": [
+    "Estação Serviço Torres Vedras A8, Sub-lanço Torres Vedras/Bombarral, Km 42",
+    "2565-656 Ramalhal"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 39.15818895,
+    "lng": -9.226383339126
+  }
+}

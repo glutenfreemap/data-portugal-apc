@@ -1,0 +1,12 @@
+{
+  "name": "Abrantes",
+  "address": [
+    "Pq Do Alto De Sto Antonio S/N",
+    "2200-364 Abrantes"
+  ],
+  "region": "santarem",
+  "position": {
+    "lat": 39.4631,
+    "lng": -8.20387
+  }
+}

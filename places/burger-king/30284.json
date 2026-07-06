@@ -1,0 +1,13 @@
+{
+  "name": "Avenida Dom João I, Rotunda do Olival",
+  "gid": "ChIJa7jC0xBtGA0RfiT_cC65PpA",
+  "address": [
+    "Avenida Dom João I, Rotunda do Olival",
+    "2200-021 Abrantes"
+  ],
+  "region": "santarem",
+  "position": {
+    "lat": 39.472121,
+    "lng": -8.194339
+  }
+}

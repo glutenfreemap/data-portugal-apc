@@ -1,0 +1,12 @@
+{
+  "name": "Castelo Branco",
+  "address": [
+    "Rua Pedro Da Fonseca 10",
+    "6000-257 Castelo Branco"
+  ],
+  "region": "castelo-branco",
+  "position": {
+    "lat": 39.81883,
+    "lng": -7.49348
+  }
+}

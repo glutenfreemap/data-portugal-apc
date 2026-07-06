@@ -1,0 +1,12 @@
+{
+  "name": "Rua Quinta do Paizinho 18, 2790-237",
+  "address": [
+    "Rua Quinta do Paizinho 18, 2790-237",
+    "2790-237 Alfragide"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.722161,
+    "lng": -9.218396
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Maia Shopping",
+  "address": [
+    "Loja 106 e 241 Lugar de Ardegães",
+    "4425-500 Águas Santas"
+  ],
+  "region": "porto",
+  "position": {
+    "lat": 41.219738,
+    "lng": -8.5617969
+  }
+}

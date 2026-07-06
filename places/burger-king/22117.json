@@ -1,0 +1,13 @@
+{
+  "name": "Rua Ferreira Borges, 75",
+  "gid": "ChIJs-qxz2YzGQ0RLcApWF0jxdk",
+  "address": [
+    "Rua Ferreira Borges, 75",
+    "1350-266 Lisboa"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.717157,
+    "lng": -9.164177
+  }
+}

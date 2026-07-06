@@ -1,0 +1,12 @@
+{
+  "name": "Via Dom Pedro I, 4990-011 Pte. de Lima",
+  "address": [
+    "Via Dom Pedro I, 4990-011 Pte. de Lima",
+    "4990-150 Ponte de Lima"
+  ],
+  "region": "viana-do-castelo",
+  "position": {
+    "lat": 41.757821,
+    "lng": -8.588182
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Cartaxo",
+  "address": [
+    "Cartaxo",
+    "Rua da Paz nºs/n, Cartaxo",
+    "2070-036 Santarém"
+  ],
+  "region": "santarem",
+  "position": {
+    "lat": 39.166736,
+    "lng": -8.780188
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Vila Franca de Xira",
+  "address": [
+    "Vila Franca de Xira",
+    "N1, Vila Franca de Xira",
+    "2600-209 VILA FRANCA DE XIRA"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.963823,
+    "lng": -8.984121
+  }
+}

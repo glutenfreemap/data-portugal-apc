@@ -1,0 +1,13 @@
+{
+  "name": "Rua dos Vales Nº 2, Lagoa",
+  "gid": "ChIJtwx5srXXGg0R9mmgBk-8snc",
+  "address": [
+    "Rua dos Vales Nº 2, Lagoa",
+    "8400-415 Lagoa"
+  ],
+  "region": "faro",
+  "position": {
+    "lat": 37.135339,
+    "lng": -8.459517
+  }
+}

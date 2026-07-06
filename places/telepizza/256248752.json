@@ -1,0 +1,12 @@
+{
+  "name": "St. Maria Da Feira",
+  "address": [
+    "Av Dr Domingos Caetano Sousa 546",
+    "4520-176 Sta Maria Da Feira"
+  ],
+  "region": "aveiro",
+  "position": {
+    "lat": 40.92576,
+    "lng": -8.55228
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Algarve Shopping",
+  "address": [
+    "Lanka Parque Comercial e Industrial do Algarve Lote R, Fracção 3",
+    "8200-417 Albufeira"
+  ],
+  "region": "faro",
+  "position": {
+    "lat": 37.12738055,
+    "lng": -8.2804115498426
+  }
+}

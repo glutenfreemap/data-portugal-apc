@@ -1,0 +1,23 @@
+{
+  "name": "Despensa N.6",
+  "description": {
+    "pt": "",
+    "en": "",
+    "fr": "",
+    "es": ""
+  },
+  "gid": "ChIJf1v-rKgzGQ0RuSyX_dZ7Edo",
+  "address": [
+    "Av. Sacadura Cabral 6A",
+    "1000-274 Lisboa"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.7448556,
+    "lng": -9.1402889
+  },
+  "categories": [
+    "bakery"
+  ],
+  "attestation": "apc-certified"
+}

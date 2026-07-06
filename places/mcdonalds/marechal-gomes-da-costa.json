@@ -1,0 +1,13 @@
+{
+  "name": "Marechal Gomes da Costa",
+  "address": [
+    "Av. Marechal Gomes da Costa 33",
+    "Avª Drº Augusto Castro , Lote 408 - Bloco 3",
+    "1950-081 LISBOA"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.757141,
+    "lng": -9.113148
+  }
+}

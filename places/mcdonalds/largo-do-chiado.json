@@ -1,0 +1,13 @@
+{
+  "name": "Largo do Chiado",
+  "address": [
+    "Largo Chiado",
+    "Largo do Chiado, 4 a 7.",
+    "1200-108 LISBOA"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.710389,
+    "lng": -9.141954
+  }
+}

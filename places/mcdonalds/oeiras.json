@@ -1,0 +1,13 @@
+{
+  "name": "Oeiras",
+  "address": [
+    "Oeiras - Santo Amaro",
+    "Parque Gago Coutinho, Santo Amaro de Oeiras, Av. Marginal",
+    "2780-000 OEIRAS"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.685331,
+    "lng": -9.313169
+  }
+}

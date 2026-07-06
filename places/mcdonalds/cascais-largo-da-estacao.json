@@ -1,0 +1,13 @@
+{
+  "name": "Cascais - Largo da Estação",
+  "address": [
+    "Cascais",
+    "Rua Sebastião José de Carvalho e Mello, 15-17",
+    "2750-483 CASCAIS"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.700033,
+    "lng": -9.418672
+  }
+}

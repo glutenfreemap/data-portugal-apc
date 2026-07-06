@@ -1,0 +1,13 @@
+{
+  "name": "Odivelas",
+  "address": [
+    "Odivelas",
+    "Piscinas Municipais de Odivelas,Av.Prof.Dr.Augusto Abreu Lopes",
+    "2675-000 ODIVELAS"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.794578,
+    "lng": -9.181378
+  }
+}

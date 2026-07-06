@@ -1,0 +1,12 @@
+{
+  "name": "Leiria Shopping",
+  "address": [
+    "C.C. LeiriaShopping, Loja R136 IC2 - Alto do Vieiro",
+    "2400-441 Leiria"
+  ],
+  "region": "leiria",
+  "position": {
+    "lat": 39.7315621,
+    "lng": -8.8249222
+  }
+}

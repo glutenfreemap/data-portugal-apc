@@ -1,0 +1,12 @@
+{
+  "name": "Avenida Vitor Galllo 1, 2430-330 Marinha Grande",
+  "address": [
+    "Avenida Vitor Galllo 1, 2430-330 Marinha Grande",
+    "2430-330 Marinha Grande"
+  ],
+  "region": "leiria",
+  "position": {
+    "lat": 39.747278,
+    "lng": -8.933528
+  }
+}

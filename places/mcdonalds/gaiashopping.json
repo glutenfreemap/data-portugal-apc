@@ -1,0 +1,13 @@
+{
+  "name": "Gaiashopping",
+  "address": [
+    "Gaiashopping",
+    "Gaia Shopping, Lojas 213-215, Av. dos Descobrimentos, nº549",
+    "4404-503 VILA NOVA DE GAIA"
+  ],
+  "region": "porto",
+  "position": {
+    "lat": 41.118611,
+    "lng": -8.622314
+  }
+}

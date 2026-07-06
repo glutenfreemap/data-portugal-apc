@@ -1,0 +1,13 @@
+{
+  "name": "Forum Madeira",
+  "address": [
+    "Forum Madeira",
+    "Centro Comercial Forum Madeira,Lj.2.29,Bairro da Ajuda,Estrada Monumental,nº390",
+    "9004 FUNCHAL"
+  ],
+  "region": "madeira",
+  "position": {
+    "lat": 32.635736,
+    "lng": -16.943217
+  }
+}

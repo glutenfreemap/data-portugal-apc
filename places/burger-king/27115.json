@@ -1,0 +1,13 @@
+{
+  "name": "Estrada da Circunvalação",
+  "gid": "ChIJMWnTsDvRRQsRo17LZ8wTO7Q",
+  "address": [
+    "Estrada da Circunvalação",
+    "9760-400 Praia da Vitória (Açores)"
+  ],
+  "region": "acores",
+  "position": {
+    "lat": 38.72912,
+    "lng": -27.06769
+  }
+}

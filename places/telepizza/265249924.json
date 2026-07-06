@@ -1,0 +1,12 @@
+{
+  "name": "Moita",
+  "address": [
+    "R Gen Humberto Delgado 4",
+    "2860-473 Moita"
+  ],
+  "region": "setubal",
+  "position": {
+    "lat": 38.65143,
+    "lng": -8.99123
+  }
+}

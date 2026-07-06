@@ -1,0 +1,13 @@
+{
+  "name": "Amarante",
+  "address": [
+    "Amarante",
+    "Rua Agostinho Gonçalves de Abreu",
+    "4600-752"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.75557,
+    "lng": -9.188562
+  }
+}

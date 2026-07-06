@@ -1,0 +1,12 @@
+{
+  "name": "Caldas Da Rainha",
+  "address": [
+    "R Belchior Matos 11, C Com Vivaci",
+    "2500 Caldas Da Rainha"
+  ],
+  "region": "leiria",
+  "position": {
+    "lat": 39.40097,
+    "lng": -9.13747
+  }
+}

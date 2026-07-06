@@ -1,0 +1,13 @@
+{
+  "name": "Lumiar",
+  "gid": "ChIJdTH1F_AyGQ0RKgO-2fBFG6w",
+  "address": [
+    "R. Joaquim Agostinho 18 C",
+    "1750-126 Lisboa"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.7651859,
+    "lng": -9.1557244
+  }
+}

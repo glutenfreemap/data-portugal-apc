@@ -1,0 +1,13 @@
+{
+  "name": "Barreiro Drive",
+  "address": [
+    "Santo André",
+    "Avenida Escola dos Fuzileiros Navais, Edifício McDonald's",
+    "2830-170 Barreiro"
+  ],
+  "region": "setubal",
+  "position": {
+    "lat": 38.64255,
+    "lng": -9.05951
+  }
+}

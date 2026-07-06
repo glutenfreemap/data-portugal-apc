@@ -1,0 +1,13 @@
+{
+  "name": "Faro Forum Algarve",
+  "address": [
+    "Faro - Forum Algarve",
+    "Forum Algarve,Lj.1.04,Pontes de Marchil",
+    "8009-020 FARO"
+  ],
+  "region": "faro",
+  "position": {
+    "lat": 37.028956,
+    "lng": -7.945439
+  }
+}

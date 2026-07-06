@@ -1,0 +1,13 @@
+{
+  "name": "Rúa Joaquim Nicolau de Almeida",
+  "gid": "ChIJmxnzWM1kJA0R5zCvnGPtlPY",
+  "address": [
+    "Rúa Joaquim Nicolau de Almeida",
+    "4430-117 Porto"
+  ],
+  "region": "porto",
+  "position": {
+    "lat": 41.1205,
+    "lng": -8.6052
+  }
+}

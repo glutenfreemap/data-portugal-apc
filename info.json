@@ -1,0 +1,19 @@
+{
+    "center": {
+    "lat": 39.608,
+    "lng": -8.267,
+    "zoom": 6.5
+    },
+    "attribution": {
+        "pt": "© Associação Portuguesa de Celíacos",
+        "en": "© Associação Portuguesa de Celíacos",
+        "fr": "© Associação Portuguesa de Celíacos",
+        "es": "© Associação Portuguesa de Celíacos"
+    },
+    "description": {
+        "pt": "Locais certificados pela Associação Portuguesa de Celíacos (APC)",
+        "en": "Certified places from the Portuguese Coeliac Association (APC)",
+        "fr": "Lieux certifiés par l'Association Portugaise des Coeliaques (APC)",
+        "es": "Localizaciones certificadas por la Asociación Portuguesa de Celíacos (APC)"
+    }
+}

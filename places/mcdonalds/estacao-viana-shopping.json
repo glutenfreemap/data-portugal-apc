@@ -1,0 +1,13 @@
+{
+  "name": "Estação Viana Shopping",
+  "address": [
+    "Viana do Castelo - Estação CP",
+    "Estação Viana Shopping,Lj.2.044,Ed, da Estação da CP",
+    "4900-317 VIANA DO CASTELO"
+  ],
+  "region": "viana-do-castelo",
+  "position": {
+    "lat": 41.695464,
+    "lng": -8.832044
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Moita",
+  "address": [
+    "Moita",
+    "Estradas do Espanhois, lote 4 2860-402 Moita",
+    "2860-402"
+  ],
+  "region": "setubal",
+  "position": {
+    "lat": 38.648645,
+    "lng": -8.986358
+  }
+}

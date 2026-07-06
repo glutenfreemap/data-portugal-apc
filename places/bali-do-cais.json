@@ -1,0 +1,23 @@
+{
+  "name": "Bali do Cais",
+  "description": {
+    "pt": "",
+    "en": "",
+    "fr": "",
+    "es": ""
+  },
+  "gid": "ChIJp1zfUR81GQ0REue1N2Gd4mg",
+  "address": [
+    "R. Bernardino Costa 21",
+    "1200-052 Lisboa"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.7068816,
+    "lng": -9.14244
+  },
+  "categories": [
+    "restaurant"
+  ],
+  "attestation": "apc-certified"
+}

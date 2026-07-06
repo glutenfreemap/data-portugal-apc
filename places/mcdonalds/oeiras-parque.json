@@ -1,0 +1,13 @@
+{
+  "name": "Oeiras Parque",
+  "address": [
+    "Oeiras Parque",
+    "Oeiras Parque-O Shopping da Linha, Lj.1080, Caminho dos Mochos",
+    "2770-219 PAÇO DE ARCOS"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.704308,
+    "lng": -9.302031
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Trofa",
+  "address": [
+    "Trofa",
+    "Avenida da Trofa Velha, 61",
+    "4785-716 TROFA"
+  ],
+  "region": "porto",
+  "position": {
+    "lat": 41.326549,
+    "lng": -8.568413
+  }
+}

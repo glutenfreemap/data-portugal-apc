@@ -1,0 +1,13 @@
+{
+  "name": "Angra do Heroísmo",
+  "address": [
+    "Angra do Heroísmo",
+    "A. Infante D.Henrique",
+    "9700-098 Angra do Heroísmo"
+  ],
+  "region": "acores",
+  "position": {
+    "lat": 38.655884,
+    "lng": -27.21162
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Guia",
+  "gid": "ChIJoSz0XC_EHg0RvJ7hlBzHjCY",
+  "address": [
+    "Rua da Torre",
+    "Edificio Neptuno",
+    "Bloco A",
+    "B e C",
+    "2750-762 Cascais"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.696294699999996,
+    "lng": -9.4413945
+  }
+}

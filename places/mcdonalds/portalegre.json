@@ -1,0 +1,13 @@
+{
+  "name": "Portalegre",
+  "address": [
+    "Portalegre",
+    "Rua da Extremadura Espanhola",
+    "7300-196 Portalegre"
+  ],
+  "region": "portalegre",
+  "position": {
+    "lat": 39.28384,
+    "lng": -7.430668
+  }
+}

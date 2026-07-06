@@ -1,0 +1,13 @@
+{
+  "name": "Jardim Zoológico",
+  "address": [
+    "ZOO de Lisboa (zona de acesso livre)",
+    "Jardim Zoológico de Lisboa, Estrada de Benfica",
+    "1549 LISBOA"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.742454,
+    "lng": -9.170426
+  }
+}

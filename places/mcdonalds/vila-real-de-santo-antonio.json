@@ -1,0 +1,13 @@
+{
+  "name": "Vila Real de Santo António",
+  "address": [
+    "Vila Real de Santo António",
+    "Av. Fernando Salgueiro Maia 121, Hortas",
+    "8900-265 VILA REAL DE SANTO ANTÓNIO"
+  ],
+  "region": "faro",
+  "position": {
+    "lat": 37.190602,
+    "lng": -7.435764
+  }
+}

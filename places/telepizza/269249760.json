@@ -1,0 +1,13 @@
+{
+  "name": "Grândola",
+  "gid": "ChIJ2_5K_wbSGw0RafeeirVLeQQ",
+  "address": [
+    "R. São João de Deus 21",
+    "7570-270 Grândola"
+  ],
+  "region": "setubal",
+  "position": {
+    "lat": 38.1753945,
+    "lng": -8.5639371
+  }
+}

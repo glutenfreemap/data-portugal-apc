@@ -1,0 +1,13 @@
+{
+  "name": "Rua Garrett",
+  "gid": "ChIJERhzUeQ1GQ0RFaTir5Z8Jy4",
+  "address": [
+    "R. Garrett 42",
+    "1200-204 Lisboa"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.710925,
+    "lng": -9.1405719
+  }
+}

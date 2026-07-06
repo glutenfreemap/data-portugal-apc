@@ -1,0 +1,13 @@
+{
+  "name": "Fátima",
+  "address": [
+    "Fátima",
+    "Av. Beato Nuno, 479",
+    "2495-651 FÁTIMA"
+  ],
+  "region": "santarem",
+  "position": {
+    "lat": 39.634781,
+    "lng": -8.681526
+  }
+}

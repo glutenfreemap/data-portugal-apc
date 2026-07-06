@@ -1,0 +1,13 @@
+{
+  "name": "Póvoa Varzim",
+  "address": [
+    "Póvoa de Varzim",
+    "Rua Gomes de Amorim Nº 1453, Vila de Aver-o-Mar",
+    "4490-641 Póvoa de Varzim"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 41.394831,
+    "lng": -8.766644
+  }
+}

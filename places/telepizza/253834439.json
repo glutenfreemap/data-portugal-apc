@@ -1,0 +1,13 @@
+{
+  "name": "Barcelos",
+  "gid": "ChIJnwYl0MJTJA0RrE7QY7x1cdk",
+  "address": [
+    "Av. da Liberdade 64",
+    "4750-312 Barcelos"
+  ],
+  "region": "braga",
+  "position": {
+    "lat": 41.5331122,
+    "lng": -8.6194101
+  }
+}

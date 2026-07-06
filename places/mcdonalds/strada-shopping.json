@@ -1,0 +1,13 @@
+{
+  "name": "Strada Shopping",
+  "address": [
+    "Odivelas Park",
+    "Strada Shopping,Lj.2.058,Nó das Patameiras",
+    "2675 ODIVELAS"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.781156,
+    "lng": -9.192131
+  }
+}

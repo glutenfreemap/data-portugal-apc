@@ -1,0 +1,13 @@
+{
+  "name": "Carnaxide",
+  "address": [
+    "Carnaxide",
+    "Av. do Forte nº7 - 7A, Posto de Abastecimento B.P.",
+    "2790-074 CARNAXIDE"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.723397,
+    "lng": -9.235108
+  }
+}

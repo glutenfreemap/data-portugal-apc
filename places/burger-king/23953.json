@@ -1,0 +1,13 @@
+{
+  "name": "Rua Horta das Figueiras",
+  "gid": "ChIJ--WnadXkGQ0RS0xSOH2qoDs",
+  "address": [
+    "Rua Horta das Figueiras",
+    "7005-212 Évora"
+  ],
+  "region": "evora",
+  "position": {
+    "lat": 38.554416,
+    "lng": -7.914951
+  }
+}

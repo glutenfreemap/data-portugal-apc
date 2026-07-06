@@ -1,0 +1,13 @@
+{
+  "name": "Marinha Da Guia",
+  "gid": "ChIJo17F8Q9rIg0RaUQFnmigXCM",
+  "address": [
+    "Rua Serrado da Estrada 24",
+    "3105-063"
+  ],
+  "region": "leiria",
+  "position": {
+    "lat": 39.968417,
+    "lng": -8.7928467
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Leiria D. Dinis",
+  "address": [
+    "Porto Moniz, Leiria",
+    "Rua Dr. João Soares",
+    "2400-448 LEIRIA"
+  ],
+  "region": "leiria",
+  "position": {
+    "lat": 39.739868,
+    "lng": -8.81848
+  }
+}

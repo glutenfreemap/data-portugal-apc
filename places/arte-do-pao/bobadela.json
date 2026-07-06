@@ -1,0 +1,13 @@
+{
+  "name": "Bobadela",
+  "gid": "ChIJzd2HgQcuGQ0RhCmyvdDFBtA",
+  "address": [
+    "R. Luís de Camões 2A",
+    "2695-052 Bobadela"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.8073475,
+    "lng": -9.1010886
+  }
+}

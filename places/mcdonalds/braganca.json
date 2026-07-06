@@ -1,0 +1,13 @@
+{
+  "name": "Bragança",
+  "address": [
+    "Bragança",
+    "Bairro dos Formarigos, Av. Cónego Luís Ruivo, nº2",
+    "5300-007 BRAGANÇA"
+  ],
+  "region": "braganca",
+  "position": {
+    "lat": 41.797264,
+    "lng": -6.771741
+  }
+}

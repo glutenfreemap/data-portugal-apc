@@ -1,0 +1,13 @@
+{
+  "name": "Alegro Sintra",
+  "address": [
+    "Alegro Sintra",
+    "Centro Comercial Alegro Sintra, Loja 2.10, Alto do Forte",
+    "2635-098 RIO DE MOURO"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.775042,
+    "lng": -9.338696
+  }
+}

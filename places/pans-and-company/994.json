@@ -1,0 +1,12 @@
+{
+  "name": "Madeira Shopping",
+  "address": [
+    "Loja 1014 Caminho de Santa Quitéria, 45 Santo António",
+    "9024-501 Funchal"
+  ],
+  "region": "madeira",
+  "position": {
+    "lat": 32.6595631,
+    "lng": -16.950538792380996
+  }
+}

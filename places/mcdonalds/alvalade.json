@@ -1,0 +1,13 @@
+{
+  "name": "Alvalade",
+  "address": [
+    "Alvalade - Av. Igreja",
+    "Praça de Alvalade,14A-15D",
+    "1700-000 LISBOA"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.753019,
+    "lng": -9.143444
+  }
+}

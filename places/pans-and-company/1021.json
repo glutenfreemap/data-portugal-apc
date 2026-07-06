@@ -1,0 +1,12 @@
+{
+  "name": "Via Catarina Shopping",
+  "address": [
+    "Loja 4.22 R. Santa Catarina, 312/350",
+    "4000-040 Porto"
+  ],
+  "region": "porto",
+  "position": {
+    "lat": 41.1492951,
+    "lng": -8.6045604
+  }
+}

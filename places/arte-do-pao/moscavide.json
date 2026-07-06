@@ -1,0 +1,13 @@
+{
+  "name": "Moscavide",
+  "gid": "ChIJ8bQsGCIyGQ0Rm6WxK6jXHIg",
+  "address": [
+    "R. Dr. Filipe Araújo",
+    "1885-094 Moscavide"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.7767288,
+    "lng": -9.108111
+  }
+}

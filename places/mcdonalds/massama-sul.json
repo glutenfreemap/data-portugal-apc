@@ -1,0 +1,13 @@
+{
+  "name": "Massamá Sul",
+  "address": [
+    "Massamá Sul",
+    "Rua Cidade Desportiva",
+    "2745-012 QUELUZ"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.753314,
+    "lng": -9.268467
+  }
+}

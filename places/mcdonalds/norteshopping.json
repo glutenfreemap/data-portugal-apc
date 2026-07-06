@@ -1,0 +1,13 @@
+{
+  "name": "NorteShopping",
+  "address": [
+    "Norte Shopping",
+    "Centro Comercial Norteshopping, Rua Sara Afonso, 105 - 117, Loja 1126 – Senhora da Hora",
+    "4464-001 Senhora da Hora Matosinhos"
+  ],
+  "region": "porto",
+  "position": {
+    "lat": 41.180875,
+    "lng": -8.654308
+  }
+}

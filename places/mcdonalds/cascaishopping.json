@@ -1,0 +1,13 @@
+{
+  "name": "CascaiShopping",
+  "address": [
+    "CascaiShopping",
+    "Cascaishopping, Loja 1B, E.N.9 Alcabideche",
+    "2645-543 ALCABIDECHE"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.738225,
+    "lng": -9.398936
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Espaço Guimarães",
+  "address": [
+    "Rua 25 de Abril 210",
+    "4835-400 Guimarães"
+  ],
+  "region": "braga",
+  "position": {
+    "lat": 41.449104750000004,
+    "lng": -8.342677092355206
+  }
+}

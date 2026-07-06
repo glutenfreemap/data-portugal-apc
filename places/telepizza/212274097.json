@@ -1,0 +1,12 @@
+{
+  "name": "Arrentela",
+  "address": [
+    "Av. Carlos De Oliveira 6",
+    "2840-210 Arrentela"
+  ],
+  "region": "setubal",
+  "position": {
+    "lat": 38.62227,
+    "lng": -9.09852
+  }
+}

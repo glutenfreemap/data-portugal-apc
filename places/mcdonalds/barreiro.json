@@ -1,0 +1,13 @@
+{
+  "name": "Barreiro",
+  "address": [
+    "Barreiro",
+    "Avenida Alfredo da Silva nº134 a 136",
+    "2830-168 BARREIRO"
+  ],
+  "region": "setubal",
+  "position": {
+    "lat": 38.662014,
+    "lng": -9.076003
+  }
+}

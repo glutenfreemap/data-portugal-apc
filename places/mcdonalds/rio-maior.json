@@ -1,0 +1,13 @@
+{
+  "name": "Rio Maior",
+  "address": [
+    "Rio Maior",
+    "Lugar do Espadanal, Av. Dr. Mário Soares;",
+    "2040-413 Rio Maior"
+  ],
+  "region": "santarem",
+  "position": {
+    "lat": 39.340697,
+    "lng": -8.930858
+  }
+}

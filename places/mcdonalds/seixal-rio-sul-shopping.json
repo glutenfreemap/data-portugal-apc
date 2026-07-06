@@ -1,0 +1,13 @@
+{
+  "name": "Seixal (Rio Sul Shopping)",
+  "address": [
+    "Rio Sul Shopping",
+    "Rio Sul Shopping,Lj.1.025,Av.Timor Loro sae,Torre da Marinha",
+    "2840-000 SEIXAL"
+  ],
+  "region": "setubal",
+  "position": {
+    "lat": 38.612719,
+    "lng": -9.105261
+  }
+}

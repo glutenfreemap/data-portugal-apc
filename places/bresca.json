@@ -1,0 +1,23 @@
+{
+  "name": "Bresca",
+  "description": {
+    "pt": "",
+    "en": "",
+    "fr": "",
+    "es": ""
+  },
+  "gid": "ChIJ9ccK3gb5Ig0RyBpTlRIX5Jg",
+  "address": [
+    "R. Visc. da Luz 80 86",
+    "3000-414 Coimbra"
+  ],
+  "region": "coimbra",
+  "position": {
+    "lat": 40.2098913,
+    "lng": -8.4291748
+  },
+  "categories": [
+    "restaurant"
+  ],
+  "attestation": "apc-certified"
+}

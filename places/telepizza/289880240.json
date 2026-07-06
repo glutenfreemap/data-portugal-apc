@@ -1,0 +1,14 @@
+{
+  "name": "Faro",
+  "gid": "ChIJEdpsu8VSBQ0RBROGjOMkhkk",
+  "address": [
+    "EN 125",
+    "Sitio das Figuras",
+    "8005-328 Faro"
+  ],
+  "region": "faro",
+  "position": {
+    "lat": 37.026343,
+    "lng": -7.9442306999999985
+  }
+}

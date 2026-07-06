@@ -1,0 +1,13 @@
+{
+  "name": "Paivas",
+  "gid": "ChIJNeeueRBKGQ0RwNbxE_BOuzI",
+  "address": [
+    "R. das Flores 11",
+    "2845-367 Amora"
+  ],
+  "region": "setubal",
+  "position": {
+    "lat": 38.619785199999995,
+    "lng": -9.1128351
+  }
+}

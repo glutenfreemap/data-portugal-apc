@@ -1,0 +1,12 @@
+{
+  "name": "Coimbra Eiras",
+  "address": [
+    "R. Barca Ribeira de Eiras",
+    "Coimbra"
+  ],
+  "region": "coimbra",
+  "position": {
+    "lat": 40.255114,
+    "lng": -8.428461
+  }
+}

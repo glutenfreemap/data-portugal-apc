@@ -1,0 +1,12 @@
+{
+  "name": "NorteShopping",
+  "address": [
+    "Loja 1103 A R. Sara Afonso, 105/117",
+    "4460-841 Senhora da Hora"
+  ],
+  "region": "porto",
+  "position": {
+    "lat": 41.1805163,
+    "lng": -8.6555517
+  }
+}

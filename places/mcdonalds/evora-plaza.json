@@ -1,0 +1,13 @@
+{
+  "name": "Évora Plaza",
+  "address": [
+    "Évora Plaza",
+    "Centro Comercial Évora Plaza, Loja 1.15",
+    "7005-354 ÉVORA"
+  ],
+  "region": "evora",
+  "position": {
+    "lat": 38.549543,
+    "lng": -7.905694
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Alegro Montijo",
+  "address": [
+    "Rua da Azinheira Loja 1.30",
+    "2870-100 Montijo"
+  ],
+  "region": "setubal",
+  "position": {
+    "lat": 38.69498775,
+    "lng": -8.942597020605
+  }
+}

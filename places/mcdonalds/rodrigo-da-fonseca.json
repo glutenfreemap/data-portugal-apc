@@ -1,0 +1,13 @@
+{
+  "name": "Rodrigo da Fonseca",
+  "address": [
+    "Rodrigo da Fonseca",
+    "Rua Rodrigo da Fonseca, 33-37",
+    "1250-190 LISBOA"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.721975,
+    "lng": -9.152494
+  }
+}

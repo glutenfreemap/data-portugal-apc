@@ -1,0 +1,12 @@
+{
+  "name": "Rua Belchior Robles",
+  "address": [
+    "Rua Belchior Robles",
+    "4450-626 Leça da Palmeira"
+  ],
+  "region": "porto",
+  "position": {
+    "lat": 41.200412,
+    "lng": -8.700542
+  }
+}

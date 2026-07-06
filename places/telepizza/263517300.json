@@ -1,0 +1,12 @@
+{
+  "name": "Benavente",
+  "address": [
+    "En 118 Intermarche Benavente",
+    "2130-104 Benavente"
+  ],
+  "region": "santarem",
+  "position": {
+    "lat": 38.96081,
+    "lng": -8.818845
+  }
+}

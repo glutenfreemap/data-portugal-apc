@@ -1,0 +1,13 @@
+{
+  "name": "Rua Nova do Seixo, nº 780",
+  "gid": "ChIJ_VpplcRlJA0ROlFZistHPR8",
+  "address": [
+    "Rua Nova do Seixo, nº 780",
+    "4465-216 Matosinhos"
+  ],
+  "region": "porto",
+  "position": {
+    "lat": 41.186252,
+    "lng": -8.631958
+  }
+}

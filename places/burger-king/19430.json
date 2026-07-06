@@ -1,0 +1,13 @@
+{
+  "name": "Rua António Feijó, Edificio Burger King",
+  "gid": "ChIJNVjg-iPQHg0R7Ctny845alM",
+  "address": [
+    "Rua António Feijó, Edificio Burger King",
+    "2635-198 Rio de Mouro"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.786409,
+    "lng": -9.340295
+  }
+}

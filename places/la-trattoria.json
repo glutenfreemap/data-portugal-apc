@@ -1,0 +1,23 @@
+{
+  "name": "La Trattoria",
+  "description": {
+    "pt": "",
+    "en": "",
+    "fr": "",
+    "es": ""
+  },
+  "gid": "ChIJSyuRMHAzGQ0R2TLSnEvPVjE",
+  "address": [
+    "R. Artilharia 1 79",
+    "1250-038 Lisboa"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.724543,
+    "lng": -9.15606
+  },
+  "categories": [
+    "restaurant"
+  ],
+  "attestation": "apc-certified"
+}

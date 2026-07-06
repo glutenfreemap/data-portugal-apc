@@ -1,0 +1,12 @@
+{
+  "name": "Rua Cidade da Covilhã",
+  "address": [
+    "Rua Cidade da Covilhã",
+    "6230-298 Fundão"
+  ],
+  "region": "castelo-branco",
+  "position": {
+    "lat": 40.15458,
+    "lng": -7.496282
+  }
+}

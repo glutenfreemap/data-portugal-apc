@@ -1,0 +1,13 @@
+{
+  "name": "Guimarães Drive",
+  "address": [
+    "Guimarães Drive",
+    "Lugar da Rodovia de Covas",
+    "4810-482 GUIMARÃES"
+  ],
+  "region": "braga",
+  "position": {
+    "lat": 41.431208,
+    "lng": -8.301697
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Gaia Fojo",
+  "address": [
+    "Gaia",
+    "Rua Nova do Fojo, 305",
+    "4400-232 VILA NOVA DE GAIA"
+  ],
+  "region": "porto",
+  "position": {
+    "lat": 41.125047,
+    "lng": -8.634764
+  }
+}

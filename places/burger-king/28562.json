@@ -1,0 +1,13 @@
+{
+  "name": "Avenida Dr Aurelio Ribeiro",
+  "gid": "ChIJg9rAvP9_GA0Ry58Z7U-oZUc",
+  "address": [
+    "Avenida Dr Aurelio Ribeiro",
+    "2300-305 Tomar"
+  ],
+  "region": "santarem",
+  "position": {
+    "lat": 39.602708,
+    "lng": -8.387336
+  }
+}

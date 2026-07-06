@@ -1,0 +1,12 @@
+{
+  "name": "Coimbra Fernão Magalhães",
+  "address": [
+    "Av. Fernão Magalhães, 701",
+    "3000-178 COIMBRA"
+  ],
+  "region": "coimbra",
+  "position": {
+    "lat": 40.217006,
+    "lng": -8.437661
+  }
+}

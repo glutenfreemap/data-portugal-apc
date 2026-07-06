@@ -1,0 +1,13 @@
+{
+  "name": "Maia Shopping",
+  "address": [
+    "Maia Shopping",
+    "Maia Shopping, Piso 2, Lj.238, Lugar de Ardegães",
+    "4425-500 MAIA"
+  ],
+  "region": "porto",
+  "position": {
+    "lat": 41.220647,
+    "lng": -8.562358
+  }
+}

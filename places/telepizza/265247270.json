@@ -1,0 +1,12 @@
+{
+  "name": "Vendas Novas",
+  "address": [
+    "R Sarmento Vieira 61 A 71",
+    "7080-075 Vendas Novas"
+  ],
+  "region": "evora",
+  "position": {
+    "lat": 38.67436,
+    "lng": -8.46416
+  }
+}

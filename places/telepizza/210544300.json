@@ -1,0 +1,12 @@
+{
+  "name": "Infantado",
+  "address": [
+    "Rua Pedro Alvares Cabral 6-A",
+    "2670-391 Infantado"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.8410946,
+    "lng": -9.1614909
+  }
+}

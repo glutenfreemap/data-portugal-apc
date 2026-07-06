@@ -1,0 +1,13 @@
+{
+  "name": "Figueira da Foz",
+  "address": [
+    "Figueira da Foz",
+    "Avenida Dr. Mário Soares, Lugar dos 4 Caminhos, Tavarede",
+    "3080-854 FIGUEIRA DA FOZ"
+  ],
+  "region": "coimbra",
+  "position": {
+    "lat": 40.164967,
+    "lng": -8.8525
+  }
+}

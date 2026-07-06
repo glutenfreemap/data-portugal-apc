@@ -1,0 +1,13 @@
+{
+  "name": "Caldas da Rainha Santo Onofre",
+  "address": [
+    "Caldas da Rainha",
+    "Av. Eng Luís de Paiva e Sousa – Santo Onofre",
+    "2500-067 Caldas da Rainha"
+  ],
+  "region": "leiria",
+  "position": {
+    "lat": 39.407173,
+    "lng": -9.145743
+  }
+}

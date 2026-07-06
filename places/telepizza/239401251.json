@@ -1,0 +1,12 @@
+{
+  "name": "Coimbra - Solum",
+  "address": [
+    "R Brasil 492",
+    "3030-775 Coimbra"
+  ],
+  "region": "coimbra",
+  "position": {
+    "lat": 40.20014,
+    "lng": -8.40456
+  }
+}

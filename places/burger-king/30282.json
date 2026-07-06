@@ -1,0 +1,13 @@
+{
+  "name": "Rua de Santo André",
+  "gid": "ChIJS86O6b5zIg0RGiHlhkOFITA",
+  "address": [
+    "Rua de Santo André",
+    "2410-196 Leiria"
+  ],
+  "region": "leiria",
+  "position": {
+    "lat": 39.74129,
+    "lng": -8.795433
+  }
+}

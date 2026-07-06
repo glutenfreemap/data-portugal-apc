@@ -1,0 +1,13 @@
+{
+  "name": "Braga Shopping",
+  "gid": "ChIJXxD-Ner-JA0RtzFMlTAx1uA",
+  "address": [
+    "Shopping loja 113, R. de Santo André",
+    "4710-308 Braga"
+  ],
+  "region": "braga",
+  "position": {
+    "lat": 41.5528694,
+    "lng": -8.4226707
+  }
+}

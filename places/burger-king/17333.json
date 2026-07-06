@@ -1,0 +1,13 @@
+{
+  "name": "Rua da Bélgica e Rua Nova do Fojo",
+  "gid": "ChIJXUCZbDdlJA0RvF3KVjLrhqw",
+  "address": [
+    "Rua da Bélgica e Rua Nova do Fojo",
+    "4400-232 Vila Nova de Gaia"
+  ],
+  "region": "porto",
+  "position": {
+    "lat": 41.126319,
+    "lng": -8.634453
+  }
+}

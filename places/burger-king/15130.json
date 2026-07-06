@@ -1,0 +1,13 @@
+{
+  "name": "Centro Comercial Nosso Shopping, Alameda de Grasse",
+  "gid": "ChIJgWHJGaxLOw0R0AdkfSHAFFw",
+  "address": [
+    "Centro Comercial Nosso Shopping, Alameda de Grasse",
+    "5000-703 Vila Real"
+  ],
+  "region": "vila-real",
+  "position": {
+    "lat": 41.297222,
+    "lng": -7.735028
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Évora",
+  "gid": "ChIJuSBNqN_kGQ0RbDDGSOklKLo",
+  "address": [
+    "Rua Joaquim António Aguiar C.Comercial S. Domingues, Lote 31, Nº 12-A a 19-A",
+    "7000-000 Évora"
+  ],
+  "region": "evora",
+  "position": {
+    "lat": 38.5731577,
+    "lng": -7.9137028
+  }
+}

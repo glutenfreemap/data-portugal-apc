@@ -1,0 +1,12 @@
+{
+  "name": "Espinho",
+  "address": [
+    "Rua 16 757",
+    "4500-241 Espinho"
+  ],
+  "region": "aveiro",
+  "position": {
+    "lat": 41.00685,
+    "lng": -8.64141
+  }
+}

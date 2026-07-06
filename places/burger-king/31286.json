@@ -1,0 +1,12 @@
+{
+  "name": "Avenida Central de Gandra (nº15)",
+  "address": [
+    "Avenida Central de Gandra (nº15)",
+    "4585-248 Gandra"
+  ],
+  "region": "porto",
+  "position": {
+    "lat": 41.182789,
+    "lng": -8.44251
+  }
+}

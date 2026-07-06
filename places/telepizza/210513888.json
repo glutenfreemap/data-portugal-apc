@@ -1,0 +1,12 @@
+{
+  "name": "Alcochete",
+  "address": [
+    "R Carlos Manuel Rodrigues Francisco 285",
+    "2890-042 Alcochete"
+  ],
+  "region": "setubal",
+  "position": {
+    "lat": 38.75376,
+    "lng": -8.95899
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Via Catarina",
+  "address": [
+    "Via Catarina",
+    "Rua Santa Catarina, nº312-350,Lj.4.08",
+    "4000-000 PORTO"
+  ],
+  "region": "porto",
+  "position": {
+    "lat": 41.149111,
+    "lng": -8.605944
+  }
+}

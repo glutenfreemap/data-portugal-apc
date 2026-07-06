@@ -1,0 +1,12 @@
+{
+  "name": "Arruda Dos Vinhos",
+  "address": [
+    "Arruda dos Vinhos Intermarche",
+    "2630-358 Arruda dos Vinhos"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.99809,
+    "lng": -9.08473
+  }
+}

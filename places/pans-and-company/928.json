@@ -1,0 +1,12 @@
+{
+  "name": "Alma Shopping",
+  "address": [
+    "Alma shopping, Loja 306 Rua General Humberto Delgado, 207/ 211",
+    "3000-327 Coimbra"
+  ],
+  "region": "coimbra",
+  "position": {
+    "lat": 40.2045864,
+    "lng": -8.407650183406007
+  }
+}

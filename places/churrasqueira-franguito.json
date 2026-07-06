@@ -1,0 +1,23 @@
+{
+  "name": "Churrasqueira Franguito",
+  "description": {
+    "pt": "",
+    "en": "",
+    "fr": "",
+    "es": ""
+  },
+  "gid": "ChIJE6bORE_QHg0RPVZoCaLZDCA",
+  "address": [
+    "Estr. Algueirão 138",
+    "2725-079 Algueirão-Mem Martins"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.8078663,
+    "lng": -9.3332397
+  },
+  "categories": [
+    "take-away"
+  ],
+  "attestation": "apc-certified"
+}

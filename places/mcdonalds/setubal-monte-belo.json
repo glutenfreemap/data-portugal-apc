@@ -1,0 +1,13 @@
+{
+  "name": "Setúbal Monte Belo",
+  "address": [
+    "Setúbal",
+    "Estrada de Algeruz n.º 281",
+    "2910-279  Setúbal"
+  ],
+  "region": "setubal",
+  "position": {
+    "lat": 38.539056,
+    "lng": -8.866028
+  }
+}

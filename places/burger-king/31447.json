@@ -1,0 +1,12 @@
+{
+  "name": "Rua da pimenta 115",
+  "address": [
+    "Rua da pimenta 115",
+    "1990-048 Lisboa"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.77358,
+    "lng": -9.092132
+  }
+}

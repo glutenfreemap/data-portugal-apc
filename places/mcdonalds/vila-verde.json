@@ -1,0 +1,12 @@
+{
+  "name": "Vila Verde",
+  "address": [
+    "Avenida António Sérgio",
+    "4730-709 Lugar de Bouça – Freguesia de Vila Verde e Barbudo"
+  ],
+  "region": "braga",
+  "position": {
+    "lat": 41.640978,
+    "lng": -8.43486
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Forum Algarve",
+  "address": [
+    "km 103, Estrada Nacional 125",
+    "Loja 1.02A",
+    "8000-126 Faro"
+  ],
+  "region": "faro",
+  "position": {
+    "lat": 37.02891125,
+    "lng": -7.944478111735955
+  }
+}

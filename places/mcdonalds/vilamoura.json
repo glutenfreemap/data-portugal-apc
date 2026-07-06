@@ -1,0 +1,13 @@
+{
+  "name": "Vilamoura",
+  "address": [
+    "Vilamoura",
+    "Av. Da Marina,Lt.1-A/J",
+    "8125-401 QUARTEIRA"
+  ],
+  "region": "faro",
+  "position": {
+    "lat": 37.077667,
+    "lng": -8.115828
+  }
+}

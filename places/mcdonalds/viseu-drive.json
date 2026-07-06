@@ -1,0 +1,13 @@
+{
+  "name": "Viseu Drive",
+  "address": [
+    "Viseu",
+    "Praça Paulo VI",
+    "3510-099 VISEU"
+  ],
+  "region": "viseu",
+  "position": {
+    "lat": 40.648947,
+    "lng": -7.918667
+  }
+}

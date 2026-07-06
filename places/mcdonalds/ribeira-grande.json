@@ -1,0 +1,13 @@
+{
+  "name": "Ribeira Grande",
+  "address": [
+    "Ribeira Grande",
+    "EN1-1ª, Avenida de São Pedro, Ribeira Seca",
+    "9600-170 SÃO MIGUEL, AÇORES"
+  ],
+  "region": "acores",
+  "position": {
+    "lat": 37.820758,
+    "lng": -25.528126
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Avenida Fontes Pereira de Melo N6A",
+  "address": [
+    "Avenida Fontes Pereira de Melo N6A",
+    "1050-121 Lisboa"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.726733,
+    "lng": -9.148874
+  }
+}

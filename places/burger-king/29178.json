@@ -1,0 +1,12 @@
+{
+  "name": "Lugar de Valadarinhos, Avenida Combatentes do Ultramar",
+  "address": [
+    "Lugar de Valadarinhos, Avenida Combatentes do Ultramar",
+    "4405-707 Valadares"
+  ],
+  "region": "porto",
+  "position": {
+    "lat": 41.085173,
+    "lng": -8.632877
+  }
+}

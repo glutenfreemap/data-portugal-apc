@@ -1,0 +1,13 @@
+{
+  "name": "Carregado",
+  "address": [
+    "Carregado - Campera",
+    "Campera Outlet Shopping, Estrada Nacional, nº3, Km 149",
+    "2580–491 ALENQUER"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 39.028886,
+    "lng": -8.965694
+  }
+}

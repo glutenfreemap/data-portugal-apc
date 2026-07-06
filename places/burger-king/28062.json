@@ -1,0 +1,13 @@
+{
+  "name": "Rua D. Afonso III",
+  "gid": "ChIJRzg9o7CNJA0RBsDC1MeNoS8",
+  "address": [
+    "Rua D. Afonso III",
+    "4590-136 Paços de Ferreira"
+  ],
+  "region": "porto",
+  "position": {
+    "lat": 41.284406,
+    "lng": -8.358614
+  }
+}

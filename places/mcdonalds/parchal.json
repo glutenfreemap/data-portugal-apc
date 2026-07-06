@@ -1,0 +1,13 @@
+{
+  "name": "Parchal",
+  "address": [
+    "Lagoa",
+    "Rua Infante D. Henrique, Lote 1",
+    "8400-024 Parchal"
+  ],
+  "region": "faro",
+  "position": {
+    "lat": 37.136453,
+    "lng": -8.520528
+  }
+}

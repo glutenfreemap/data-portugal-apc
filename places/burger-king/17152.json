@@ -1,0 +1,13 @@
+{
+  "name": "Rua das tulipas nº26",
+  "gid": "ChIJ2yneuW7EHg0R9Y4boT_Z4zk",
+  "address": [
+    "Rua das tulipas nº26",
+    "2750-272 Cascais"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.716334,
+    "lng": -9.439989
+  }
+}

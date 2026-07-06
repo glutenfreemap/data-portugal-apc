@@ -1,0 +1,12 @@
+{
+  "name": "Oliveira de Azeméis",
+  "address": [
+    "Rua Professor Arnaldo Costeira 168 ",
+    "3720-271   Oliveira de Azeméis"
+  ],
+  "region": "aveiro",
+  "position": {
+    "lat": 40.837528,
+    "lng": -8.474056
+  }
+}

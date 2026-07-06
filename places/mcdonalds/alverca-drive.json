@@ -1,0 +1,13 @@
+{
+  "name": "Alverca Drive",
+  "address": [
+    "Alverca",
+    "Rua Josué Martins, LT 60, Urbanização Malvarosa Parque",
+    "2615-164 ALVERCA DO RIBATEJO"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.888515,
+    "lng": -9.045843
+  }
+}

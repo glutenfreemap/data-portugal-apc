@@ -1,0 +1,13 @@
+{
+  "name": "Póvoa de Santa Iria",
+  "address": [
+    "Póvoa de Santa Iria",
+    "Estrada Nacional 10 - Loja 15",
+    "2625-130 Póvoa de Santa Iria"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.85621,
+    "lng": -9.07048
+  }
+}

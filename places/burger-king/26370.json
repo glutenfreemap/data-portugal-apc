@@ -1,0 +1,13 @@
+{
+  "name": "Rua das Rãs",
+  "gid": "ChIJEy-E1nP1JA0RGyplUrKZwDk",
+  "address": [
+    "Rua das Rãs",
+    "4780-219 Santo Tirso"
+  ],
+  "region": "porto",
+  "position": {
+    "lat": 41.3431,
+    "lng": -8.4738
+  }
+}

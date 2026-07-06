@@ -1,0 +1,13 @@
+{
+  "name": "Covilhã",
+  "address": [
+    "C.C. Serra Shopping, Loja 157",
+    "Av. Europa - Lote 7 Sta. Maria",
+    "6200-546 Covilhã"
+  ],
+  "region": "castelo-branco",
+  "position": {
+    "lat": 40.271264099999996,
+    "lng": -7.502283244379566
+  }
+}

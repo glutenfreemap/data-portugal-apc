@@ -1,0 +1,13 @@
+{
+  "name": "Loulé",
+  "address": [
+    "Loulé",
+    "Rua Brites de Almeida, Olivais de Stº António, São Sebastião",
+    "8100-676 LOULÉ"
+  ],
+  "region": "faro",
+  "position": {
+    "lat": 37.139444,
+    "lng": -8.029722
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Vila Real",
+  "gid": "ChIJOfopFBxLOw0R-PiQ8srumig",
+  "address": [
+    "R. da Tenaria 6",
+    "5000-519 Vila Real"
+  ],
+  "region": "vila-real",
+  "position": {
+    "lat": 41.2983297,
+    "lng": -7.7508703
+  }
+}

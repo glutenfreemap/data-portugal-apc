@@ -1,0 +1,13 @@
+{
+  "name": "Leiriashopping",
+  "address": [
+    "Leiriashopping",
+    "Loja 146 -  Estrada Nacional 1",
+    "2400-822 LEIRIA"
+  ],
+  "region": "leiria",
+  "position": {
+    "lat": 39.732611,
+    "lng": -8.824808
+  }
+}

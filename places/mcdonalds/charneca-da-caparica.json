@@ -1,0 +1,13 @@
+{
+  "name": "Charneca da Caparica",
+  "address": [
+    "Charneca da Caparica/Almada",
+    "Rua António Andrade, antiga EN377, Km10",
+    "2820-287 CHARNECA DA CAPARICA"
+  ],
+  "region": "setubal",
+  "position": {
+    "lat": 38.612997,
+    "lng": -9.189383
+  }
+}

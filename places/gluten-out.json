@@ -1,0 +1,23 @@
+{
+  "name": "Gluten'Out",
+  "description": {
+    "pt": "",
+    "en": "",
+    "fr": "",
+    "es": ""
+  },
+  "gid": "ChIJ5S3L4Ac2GQ0RDHXeaHxuLLA",
+  "address": [
+    "Av. Vasco da Gama 53",
+    "2840-745 Seixal"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.6433548,
+    "lng": -9.1000987
+  },
+  "categories": [
+    "bakery"
+  ],
+  "attestation": "apc-certified"
+}

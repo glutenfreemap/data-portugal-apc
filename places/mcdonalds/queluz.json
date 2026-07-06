@@ -1,0 +1,13 @@
+{
+  "name": "Queluz",
+  "address": [
+    "Queluz",
+    "Av. José Elias Garcia nº114 -118",
+    "2745-143 QUELUZ"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.756444,
+    "lng": -9.254519
+  }
+}

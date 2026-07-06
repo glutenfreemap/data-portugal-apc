@@ -1,0 +1,19 @@
+{
+  "name": "Avenida de Roma",
+  "description": {
+    "pt": "Comida ultra-congelada para levar.",
+    "en": "Ultra-frozen food to go.",
+    "fr": "Nourriture surgelée à emporter.",
+    "es": "Comida ultracongelada para llevar."
+  },
+  "gid": "ChIJhe1WDsIzGQ0RnhxrS8lsBoo",
+  "address": [
+    "Av. de Roma 53B",
+    "1700-342 Lisboa"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.7475923,
+    "lng": -9.1413112
+  }
+}

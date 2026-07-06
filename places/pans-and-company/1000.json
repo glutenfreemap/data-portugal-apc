@@ -1,0 +1,12 @@
+{
+  "name": "Modivas Norte",
+  "address": [
+    "Área de Serviço de Sentido Sul/ Norte A28 Km 13",
+    "4485-300 Vila do Conde"
+  ],
+  "region": "porto",
+  "position": {
+    "lat": 41.28928545,
+    "lng": -8.70307805
+  }
+}

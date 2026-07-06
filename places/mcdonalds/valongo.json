@@ -1,0 +1,13 @@
+{
+  "name": "Valongo",
+  "address": [
+    "Valongo",
+    "Rua Fonseca Dias, 100, 120 e 126",
+    "4440-452 Valongo"
+  ],
+  "region": "porto",
+  "position": {
+    "lat": 41.187592,
+    "lng": -8.489281
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Espinho",
+  "address": [
+    "Espinho",
+    "Rua 20, nº 1",
+    "4500-182 ESPINHO"
+  ],
+  "region": "porto",
+  "position": {
+    "lat": 41.015774,
+    "lng": -8.639445
+  }
+}

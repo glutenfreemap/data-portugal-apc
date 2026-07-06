@@ -1,0 +1,12 @@
+{
+  "name": "Avenida Engenheiro Vilar Queiroz 1, 2615-216 Alverca",
+  "address": [
+    "Avenida Engenheiro Vilar Queiroz 1, 2615-216 Alverca",
+    "2615-216 Alverca"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.890033,
+    "lng": -9.039147
+  }
+}

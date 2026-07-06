@@ -1,0 +1,12 @@
+{
+  "name": "Abóboda",
+  "address": [
+    "Estrada Nacional 249 – km4",
+    "2785-784 SÃO DOMINGOS DE RANA"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.721718,
+    "lng": -9.338103
+  }
+}

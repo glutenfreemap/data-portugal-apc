@@ -1,0 +1,13 @@
+{
+  "name": "Bom Sucesso",
+  "address": [
+    "Bom Sucesso",
+    "Shopping Center Cidade do Porto, Piso \"Mouzinho de Albuquerque\", Loja 321-3, Rua Gonçalo Sampaio, 350",
+    "4150-365 PORTO"
+  ],
+  "region": "porto",
+  "position": {
+    "lat": 41.155125,
+    "lng": -8.630197
+  }
+}

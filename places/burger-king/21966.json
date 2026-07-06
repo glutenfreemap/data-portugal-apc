@@ -1,0 +1,12 @@
+{
+  "name": "Rua Visconde da Luz N 17",
+  "address": [
+    "Rua Visconde da Luz N 17",
+    "2750-415 Cascais"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.698947,
+    "lng": -9.421099
+  }
+}

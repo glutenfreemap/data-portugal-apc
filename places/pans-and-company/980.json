@@ -1,0 +1,12 @@
+{
+  "name": "IKEA Loulé",
+  "address": [
+    "Mar Shopping Loulé LJ 1.33 B Avenida Algarve 5",
+    "8135-182 Almancil"
+  ],
+  "region": "faro",
+  "position": {
+    "lat": 37.09866125,
+    "lng": -7.997483267042581
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Évora",
+  "address": [
+    "Évora",
+    "Rua Cidade de Coimbra, nº999",
+    "7005-000 ÉVORA"
+  ],
+  "region": "evora",
+  "position": {
+    "lat": 38.562197,
+    "lng": -7.9261
+  }
+}

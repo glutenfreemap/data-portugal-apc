@@ -1,0 +1,13 @@
+{
+  "name": "CoimbraShopping",
+  "address": [
+    "CoimbraShopping",
+    "Coimbra Shopping, Lj.213/214, Av. Dr. Mendes Silva",
+    "3030-193 COIMBRA"
+  ],
+  "region": "coimbra",
+  "position": {
+    "lat": 40.194383,
+    "lng": -8.409372
+  }
+}

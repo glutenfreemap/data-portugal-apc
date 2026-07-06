@@ -1,0 +1,23 @@
+{
+  "name": "Sergio Crivelli",
+  "description": {
+    "pt": "",
+    "en": "",
+    "fr": "",
+    "es": ""
+  },
+  "gid": "ChIJV1tMQzpvJA0R4RENcdFBgA8",
+  "address": [
+    "Rua de Brito Capelo 705",
+    "4450-076 Matosinhos"
+  ],
+  "region": "porto",
+  "position": {
+    "lat": 41.181714,
+    "lng": -8.689615999999997
+  },
+  "categories": [
+    "restaurant"
+  ],
+  "attestation": "apc-certified"
+}

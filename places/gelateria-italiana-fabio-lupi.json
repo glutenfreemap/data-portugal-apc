@@ -1,0 +1,23 @@
+{
+  "name": "Gelateria Italiana Fabio Lupi",
+  "description": {
+    "pt": "",
+    "en": "",
+    "fr": "",
+    "es": ""
+  },
+  "gid": "ChIJTRtXqy_EHg0RpJm6mQok6NQ",
+  "address": [
+    "Av. Valbom 10A",
+    "2750-508 Cascais"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.6990787,
+    "lng": -9.420091000000001
+  },
+  "categories": [
+    "ice-cream"
+  ],
+  "attestation": "apc-certified"
+}

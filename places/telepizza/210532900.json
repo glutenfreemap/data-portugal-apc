@@ -1,0 +1,13 @@
+{
+  "name": "Malveira",
+  "gid": "ChIJfRd1wQ4nHw0RNt01lOfC8NM",
+  "address": [
+    "Intermarché, Estrada Nacional 8, Alto da Lagoa",
+    "2665-297 Malveira"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.9405975,
+    "lng": -9.2517925
+  }
+}

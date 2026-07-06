@@ -1,0 +1,13 @@
+{
+  "name": "Massamá Norte",
+  "address": [
+    "Massamá Norte",
+    "Av. Salgueiro Maia nº98, Massamá Norte",
+    "2605-229 BELAS"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.767028,
+    "lng": -9.278733
+  }
+}

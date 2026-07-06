@@ -1,0 +1,12 @@
+{
+  "name": "Ericeira",
+  "address": [
+    "En 247 Km 49,4",
+    "2655-319 Ericeira"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.97742,
+    "lng": -9.41807
+  }
+}

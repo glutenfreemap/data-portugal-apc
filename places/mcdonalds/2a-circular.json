@@ -1,0 +1,13 @@
+{
+  "name": "2ª Circular",
+  "address": [
+    "2ª Circular",
+    "Avenida Marechal Craveiro Lopes, Posto de Abastecimento Repsol",
+    "1700-305 LISBOA"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.762883,
+    "lng": -9.140344
+  }
+}

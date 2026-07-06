@@ -1,0 +1,13 @@
+{
+  "name": "Ponte de Lima",
+  "address": [
+    "Ponte de Lima",
+    "Rua do Tripeiro, nº10",
+    "4990-349 PONTE DE LIMA"
+  ],
+  "region": "viana-do-castelo",
+  "position": {
+    "lat": 41.758748,
+    "lng": -8.585445
+  }
+}

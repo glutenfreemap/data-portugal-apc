@@ -1,0 +1,13 @@
+{
+  "name": "Sintra Retail Park",
+  "address": [
+    "Sintra Retail Park",
+    "Rua Amílcar Antunes, Parque Comercial Sintra Retail Park",
+    "2635-000 RIO DE MOURO"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.776956,
+    "lng": -9.335519
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Braga Av. Central",
+  "address": [
+    "Braga  - Avenida Central",
+    "Avenida Central, Apart. 534",
+    "4710-229 BRAGA"
+  ],
+  "region": "braga",
+  "position": {
+    "lat": 41.551219,
+    "lng": -8.422042
+  }
+}

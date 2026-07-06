@@ -1,0 +1,13 @@
+{
+  "name": "Cacém",
+  "gid": "ChIJ9-ksGBTOHg0RW6aCbh7Q4tY",
+  "address": [
+    "Av. Dom Nuno Álvares Pereira 22",
+    "2735-147 Agualva-Cacém"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.7677839,
+    "lng": -9.2966441
+  }
+}

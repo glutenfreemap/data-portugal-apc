@@ -1,0 +1,24 @@
+{
+  "name": "Nutty Store",
+  "gid": "ChIJvS5r5EDPHg0R67OsLgsMkkk",
+  "attestation": "apc-certified",
+  "address": [
+    "Largo do Chafariz 18, -1",
+    "São Domingos de Rana",
+    "2785-614 São Domingos de Rana"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": "38.714097",
+    "lng": "-9.347377"
+  },
+  "description": {
+    "pt": "<p>Abre só por encomenda. Mais informações <a href=\"https://mynuttystore.com/\" title=\"https://mynuttystore.com/\" target=\"_blank\">aqui</a>.</p>",
+    "en": "<p>Open by reservation only. More information <a href=\"https://mynuttystore.com/\" title=\"https://mynuttystore.com/\" target=\"_blank\">here</a>.</p>",
+    "fr": "<p>Ouvert uniquement sur réservation. Plus d'informations <a href=\"https://mynuttystore.com/\" title=\"https://mynuttystore.com/\" target=\"_blank\">ici</a>.</p>",
+    "es": "<p>Abierto solo con reserva. Más información <a href=\"https://mynuttystore.com/\" title=\"https://mynuttystore.com/\" target=\"_blank\">aquí</a>.</p>"
+  },
+  "categories": [
+    "take-away"
+  ]
+}

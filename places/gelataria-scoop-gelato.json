@@ -1,0 +1,23 @@
+{
+  "name": "Gelataria Scoop Gelato",
+  "description": {
+    "pt": "",
+    "en": "",
+    "fr": "",
+    "es": ""
+  },
+  "gid": "ChIJt-y0kxfNHg0RgiaiY6yRp_4",
+  "address": [
+    "Largo da Princesa 26 A",
+    "1400-303 Lisboa"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.6951041,
+    "lng": -9.2153774
+  },
+  "categories": [
+    "ice-cream"
+  ],
+  "attestation": "apc-certified"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Ribeira Porto",
+  "address": [
+    "Porto",
+    "Rua Infante D. Henrique nº131",
+    "4050-298 Porto"
+  ],
+  "region": "porto",
+  "position": {
+    "lat": 41.14033,
+    "lng": -8.61584
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Gaia Shopping",
+  "address": [
+    "Loja 254 Av. dos Descobrimentos, 549",
+    "4404-503 Vila Nova de Gaia"
+  ],
+  "region": "porto",
+  "position": {
+    "lat": 41.1176858,
+    "lng": -8.6225706
+  }
+}

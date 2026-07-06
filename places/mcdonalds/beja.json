@@ -1,0 +1,13 @@
+{
+  "name": "Beja",
+  "address": [
+    "Beja",
+    "Av.Fialho de Almeida e a EN 122",
+    "7800-000 BEJA"
+  ],
+  "region": "beja",
+  "position": {
+    "lat": 38.003839,
+    "lng": -7.866342
+  }
+}

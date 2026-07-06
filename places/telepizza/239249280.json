@@ -1,0 +1,12 @@
+{
+  "name": "Condeixa",
+  "address": [
+    "Lugar Barreira Intermarche Condeixa",
+    "3150-110 Condeixa-A-Nova"
+  ],
+  "region": "coimbra",
+  "position": {
+    "lat": 40.12257,
+    "lng": -8.50325
+  }
+}

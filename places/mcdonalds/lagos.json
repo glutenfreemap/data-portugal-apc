@@ -1,0 +1,13 @@
+{
+  "name": "Lagos",
+  "address": [
+    "Lagos",
+    "Urbanização Varandas de SºJoão,Lt.14,S.Sebastião",
+    "8600 LAGOS"
+  ],
+  "region": "faro",
+  "position": {
+    "lat": 37.113464,
+    "lng": -8.681764
+  }
+}

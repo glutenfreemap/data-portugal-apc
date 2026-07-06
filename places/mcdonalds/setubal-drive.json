@@ -1,0 +1,13 @@
+{
+  "name": "Setúbal Drive",
+  "address": [
+    "Setúbal",
+    "Estrada de Palmela com a Avenida Europa",
+    "2900-717 SETÚBAL"
+  ],
+  "region": "setubal",
+  "position": {
+    "lat": 38.531883,
+    "lng": -8.897307
+  }
+}

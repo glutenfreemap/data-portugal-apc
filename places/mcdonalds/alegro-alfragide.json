@@ -1,0 +1,13 @@
+{
+  "name": "Alegro Alfragide",
+  "address": [
+    "Alfragide - C.C. Alegro",
+    "C. C. Alegro Alfragide, Loja 142",
+    "2790-150 CARNAXIDE"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.727593,
+    "lng": -9.218208
+  }
+}

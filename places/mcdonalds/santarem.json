@@ -1,0 +1,13 @@
+{
+  "name": "Santarém",
+  "address": [
+    "Santarém",
+    "Rua Comandante José Carvalho",
+    "2005-198 SANTARÉM"
+  ],
+  "region": "santarem",
+  "position": {
+    "lat": 39.244506,
+    "lng": -8.689344
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Elvas",
+  "address": [
+    "Sitio Do Morgadinho S/N",
+    "7350-207 Elvas"
+  ],
+  "region": "portalegre",
+  "position": {
+    "lat": 38.87465,
+    "lng": -7.18411
+  }
+}

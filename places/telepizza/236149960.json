@@ -1,0 +1,12 @@
+{
+  "name": "Pombal",
+  "address": [
+    "R Dr Carlos Mota Pinto Lj-34",
+    "3100-389 Pombal"
+  ],
+  "region": "leiria",
+  "position": {
+    "lat": 39.92009,
+    "lng": -8.62901
+  }
+}

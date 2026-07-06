@@ -1,0 +1,12 @@
+{
+  "name": "Avenida Oliveira Martins, 4420-000, São Cosme, Gondomar",
+  "address": [
+    "Avenida Oliveira Martins, 4420-000, São Cosme, Gondomar",
+    "4420-000 Gondomar"
+  ],
+  "region": "porto",
+  "position": {
+    "lat": 41.138697,
+    "lng": -8.537942
+  }
+}

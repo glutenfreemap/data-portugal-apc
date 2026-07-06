@@ -1,0 +1,23 @@
+{
+  "name": "Puralã - Wool Valley Hotel & SPA",
+  "description": {
+    "pt": "",
+    "en": "",
+    "fr": "",
+    "es": ""
+  },
+  "gid": "ChIJpfiD8v4iPQ0RQKpVDjwEmlA",
+  "address": [
+    "Alameda Pêro da Covilhã",
+    "6200-507 Covilhã"
+  ],
+  "region": "guarda",
+  "position": {
+    "lat": 40.2674288,
+    "lng": -7.497471299999998
+  },
+  "categories": [
+    "hotel"
+  ],
+  "attestation": "apc-certified"
+}

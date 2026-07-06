@@ -1,0 +1,13 @@
+{
+  "name": "Amoreiras",
+  "address": [
+    "C.C. Amoreiras",
+    "Amoreiras Shopping Center, Lojas 2041,2042 e 2033, Av. Engº Duarte Pacheco",
+    "1070-103 LISBOA"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.723764,
+    "lng": -9.162253
+  }
+}

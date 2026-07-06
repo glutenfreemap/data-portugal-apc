@@ -1,0 +1,13 @@
+{
+  "name": "Stand Norte Shopping",
+  "gid": "ChIJG3W6aMllJA0RT2BsC5LRnME",
+  "address": [
+    "R. Sara Afonso 4460-841",
+    "4460-282 Sra. da Hora"
+  ],
+  "region": "porto",
+  "position": {
+    "lat": 41.1809736,
+    "lng": -8.6549289
+  }
+}

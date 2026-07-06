@@ -1,0 +1,13 @@
+{
+  "name": "Almada Drive",
+  "address": [
+    "Almada Drive",
+    "Rua de Eduardo Viana, 1 - Quinta das Carapinha",
+    "2810-017 ALMADA"
+  ],
+  "region": "setubal",
+  "position": {
+    "lat": 38.662761,
+    "lng": -9.162971
+  }
+}

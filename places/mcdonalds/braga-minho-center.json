@@ -1,0 +1,13 @@
+{
+  "name": "Braga Minho Center",
+  "address": [
+    "Braga - Minho Center",
+    "Minho Center,Lj.12,Av.Robert Smith, s/n,Fraião",
+    "4715-249 BRAGA"
+  ],
+  "region": "braga",
+  "position": {
+    "lat": 41.541281,
+    "lng": -8.401542
+  }
+}

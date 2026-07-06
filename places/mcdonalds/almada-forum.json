@@ -1,0 +1,13 @@
+{
+  "name": "Almada Forum",
+  "address": [
+    "Almada Forum",
+    "Centro Comercial MDC Almada, Loja 328, Estrada do Caminho Municipal, Vale de Moureles",
+    "2810-500 ALMADA"
+  ],
+  "region": "setubal",
+  "position": {
+    "lat": 38.659303,
+    "lng": -9.173581
+  }
+}

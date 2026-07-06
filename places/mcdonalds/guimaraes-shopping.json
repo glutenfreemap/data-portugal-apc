@@ -1,0 +1,13 @@
+{
+  "name": "Guimarães Shopping",
+  "address": [
+    "Guimarães Shopping",
+    "Alameda Drº Mariano Felgueiras, nº 430",
+    "4835-075 GUIMARÃES"
+  ],
+  "region": "braga",
+  "position": {
+    "lat": 41.440575,
+    "lng": -8.30385
+  }
+}

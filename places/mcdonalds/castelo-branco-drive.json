@@ -1,0 +1,13 @@
+{
+  "name": "Castelo Branco Drive",
+  "address": [
+    "Castelo Branco",
+    "Estrada Nacional 18, R. Amilcar Crespo, 6000-000 Castelo Branco",
+    "6000-000"
+  ],
+  "region": "castelo-branco",
+  "position": {
+    "lat": 39.806319,
+    "lng": -7.512406
+  }
+}

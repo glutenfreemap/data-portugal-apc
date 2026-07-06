@@ -1,0 +1,12 @@
+{
+  "name": "Laranjeiro",
+  "address": [
+    "Av 25 De Abril 68A E 68B",
+    "2855-099 Corroios"
+  ],
+  "region": "setubal",
+  "position": {
+    "lat": 38.64141,
+    "lng": -9.15107
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Vila Real Nosso Shopping",
+  "address": [
+    "Vila Real Nosso Shopping",
+    "Centro Comercial Nosso Shopping, Loja L249, Alameda de Grasse",
+    "5000-703 VILA REAL"
+  ],
+  "region": "vila-real",
+  "position": {
+    "lat": 41.297272,
+    "lng": -7.734442
+  }
+}

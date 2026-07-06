@@ -1,0 +1,13 @@
+{
+  "name": "Chiado",
+  "address": [
+    "Chiado - Armanzéns do Chiado",
+    "Rua do Carmo, nº2, Armazéns do Chiado, Lj.6, 10A",
+    "1200-049 LISBOA"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.710956,
+    "lng": -9.139586
+  }
+}

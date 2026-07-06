@@ -1,0 +1,13 @@
+{
+  "name": "Ponta Delgada",
+  "address": [
+    "Ponta Delgada",
+    "Rua Dr. Francisco Espínola de Mendonça, 2A",
+    "9500-437 PONTA DELGADA"
+  ],
+  "region": "acores",
+  "position": {
+    "lat": 37.752241,
+    "lng": -25.651144
+  }
+}

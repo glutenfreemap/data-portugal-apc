@@ -1,0 +1,13 @@
+{
+  "name": "LouresShopping",
+  "address": [
+    "LouresShopping",
+    "Centro Comercial Loureshopping,Lj.1.065,Quinta do Infantado",
+    "2670 LOURES"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.833131,
+    "lng": -9.156261
+  }
+}

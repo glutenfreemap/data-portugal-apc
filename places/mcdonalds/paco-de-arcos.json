@@ -1,0 +1,13 @@
+{
+  "name": "Paço de Arcos",
+  "address": [
+    "Paço de Arcos",
+    "Estrada de Paço de Arcos, 48, Lote 3",
+    "2770-129 LISBOA"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.70508,
+    "lng": -9.29501
+  }
+}

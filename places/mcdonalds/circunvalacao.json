@@ -1,0 +1,13 @@
+{
+  "name": "Circunvalação",
+  "address": [
+    "Circunvalação",
+    "Estrada Exterior da Circunvalação, 8114 - 8116, Paranhos",
+    "4200-163 PORTO"
+  ],
+  "region": "porto",
+  "position": {
+    "lat": 41.18466,
+    "lng": -8.605235
+  }
+}

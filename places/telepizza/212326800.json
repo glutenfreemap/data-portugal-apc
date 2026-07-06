@@ -1,0 +1,12 @@
+{
+  "name": "Montijo",
+  "address": [
+    "Av Corregedor Rodrigo Dias 3",
+    "2870-153 Montijo"
+  ],
+  "region": "setubal",
+  "position": {
+    "lat": 38.70638,
+    "lng": -8.96516
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Vasco da Gama",
+  "address": [
+    "Vasco da Gama",
+    "C. C. Vasco da Gama, Lj.2015, Av. D. João II, P.1.05, Lt.02",
+    "1990 LISBOA"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.767733,
+    "lng": -9.0977
+  }
+}

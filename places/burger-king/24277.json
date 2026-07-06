@@ -1,0 +1,13 @@
+{
+  "name": "Rua da Fonte Nova",
+  "gid": "ChIJy8wA_wJLOw0REp17XUIEaL0",
+  "address": [
+    "Rua da Fonte Nova",
+    "5000-540 Vila Real"
+  ],
+  "region": "vila-real",
+  "position": {
+    "lat": 41.298202,
+    "lng": -7.75001
+  }
+}

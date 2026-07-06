@@ -1,0 +1,13 @@
+{
+  "name": "Oeiras",
+  "gid": "ChIJbfw7LSXJHg0RgfYYTqT71H4",
+  "address": [
+    "Av. Brasil 13 Loja 2A",
+    "2780-315 Oeiras"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.6872475,
+    "lng": -9.311945699999999
+  }
+}

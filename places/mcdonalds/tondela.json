@@ -1,0 +1,13 @@
+{
+  "name": "Tondela",
+  "address": [
+    "Tondela",
+    "Avenida Lusíadas 303",
+    "3460-482"
+  ],
+  "region": "viseu",
+  "position": {
+    "lat": 40.53029,
+    "lng": -8.086985
+  }
+}

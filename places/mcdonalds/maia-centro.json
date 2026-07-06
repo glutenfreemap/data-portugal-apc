@@ -1,0 +1,13 @@
+{
+  "name": "Maia Centro",
+  "address": [
+    "Maia Centro",
+    "Gaveto da Via Periférica c/ a Av. Santos de Leite, Lugar de Catassol",
+    "4470-142 MAIA"
+  ],
+  "region": "porto",
+  "position": {
+    "lat": 41.226514,
+    "lng": -8.618231
+  }
+}

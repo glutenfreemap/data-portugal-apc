@@ -1,0 +1,13 @@
+{
+  "name": "Nazaré",
+  "address": [
+    "Nazaré",
+    "Av Nogent Sur Marne Estrada Nacional 242 Km 32+500",
+    "2450-138 Nazaré"
+  ],
+  "region": "leiria",
+  "position": {
+    "lat": 39.613638,
+    "lng": -9.061262
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Guimarães",
+  "address": [
+    "R Conego Manuel Faria Lj 7",
+    "4800-321 Guimaraes"
+  ],
+  "region": "braga",
+  "position": {
+    "lat": 41.44987,
+    "lng": -8.29412
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Avenida Visconde do Tojal 3",
+  "gid": "ChIJvUtaam9BGQ0RRyUqLfwSzl0",
+  "address": [
+    "Avenida Visconde do Tojal 3",
+    "2950-780 Palmela"
+  ],
+  "region": "setubal",
+  "position": {
+    "lat": 38.577302,
+    "lng": -8.89544
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Portalegre",
+  "gid": "ChIJz51z_Ky9Fw0RmO6NPB5NiHM",
+  "address": [
+    "R. 1º de Maio 81 loja nº75",
+    "7300-205 Portalegre"
+  ],
+  "region": "portalegre",
+  "position": {
+    "lat": 39.2937545,
+    "lng": -7.4326462
+  }
+}

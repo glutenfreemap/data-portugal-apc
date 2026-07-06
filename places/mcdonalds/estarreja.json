@@ -1,0 +1,13 @@
+{
+  "name": "Estarreja",
+  "address": [
+    "Estarreja",
+    "Rua Dr Tavares da Silva Nº26",
+    "3860-396 Estarreja"
+  ],
+  "region": "aveiro",
+  "position": {
+    "lat": 40.759343,
+    "lng": -8.570462
+  }
+}

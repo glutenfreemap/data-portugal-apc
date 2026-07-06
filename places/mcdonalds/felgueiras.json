@@ -1,0 +1,13 @@
+{
+  "name": "Felgueiras",
+  "address": [
+    "Felgueiras",
+    "Rua Tenente Coronel António Emídio Moreira Peixoto, nº1422",
+    "4610-213 FELGUEIRAS"
+  ],
+  "region": "porto",
+  "position": {
+    "lat": 41.359261,
+    "lng": -8.204372
+  }
+}

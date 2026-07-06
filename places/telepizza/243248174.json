@@ -1,0 +1,12 @@
+{
+  "name": "Almeirim",
+  "address": [
+    "Rua De Alpiarça 23",
+    "2080-091 Almeirim"
+  ],
+  "region": "santarem",
+  "position": {
+    "lat": 39.21208,
+    "lng": -8.62538
+  }
+}

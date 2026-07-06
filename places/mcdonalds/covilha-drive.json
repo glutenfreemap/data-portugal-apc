@@ -1,0 +1,13 @@
+{
+  "name": "Covilhã Drive",
+  "address": [
+    "Covilhã",
+    "Covilhã Shopping, Quinta do Alvito",
+    "6200-000 COVILHÃ"
+  ],
+  "region": "castelo-branco",
+  "position": {
+    "lat": 40.263786,
+    "lng": -7.490778
+  }
+}

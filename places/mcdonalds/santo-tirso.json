@@ -1,0 +1,13 @@
+{
+  "name": "Santo Tirso",
+  "address": [
+    "Santo Tirso",
+    "Rua dos Trabalhadores do Arco",
+    "4780-424"
+  ],
+  "region": "porto",
+  "position": {
+    "lat": 41.33977,
+    "lng": -8.480456
+  }
+}

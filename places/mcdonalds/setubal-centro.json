@@ -1,0 +1,13 @@
+{
+  "name": "Setúbal Centro",
+  "address": [
+    "Setúbal Centro",
+    "Av.Luisa Todi,nº214,216 e 218",
+    "2900-000 SETÚBAL"
+  ],
+  "region": "setubal",
+  "position": {
+    "lat": 38.523331,
+    "lng": -8.890839
+  }
+}

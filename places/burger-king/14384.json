@@ -1,0 +1,12 @@
+{
+  "name": "Av. Eng. João Meireles 23",
+  "address": [
+    "Av. Eng. João Meireles 23",
+    "8125-507 Quarteira"
+  ],
+  "region": "faro",
+  "position": {
+    "lat": 37.082784,
+    "lng": -8.117198
+  }
+}

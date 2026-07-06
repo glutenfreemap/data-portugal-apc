@@ -1,0 +1,12 @@
+{
+  "name": "Boavista",
+  "address": [
+    "R O 1. Janeiro 132-C",
+    "4100-366 Porto"
+  ],
+  "region": "porto",
+  "position": {
+    "lat": 41.16183,
+    "lng": -8.64363
+  }
+}

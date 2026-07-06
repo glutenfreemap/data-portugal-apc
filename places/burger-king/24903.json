@@ -1,0 +1,13 @@
+{
+  "name": "Avenida Boavista, nº 2586",
+  "gid": "ChIJM6zPFoRlJA0Re6MIynr9Orw",
+  "address": [
+    "Avenida Boavista, nº 2586",
+    "4100-119 Porto"
+  ],
+  "region": "porto",
+  "position": {
+    "lat": 41.1625,
+    "lng": -8.653944
+  }
+}

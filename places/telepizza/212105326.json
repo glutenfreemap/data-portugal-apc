@@ -1,0 +1,13 @@
+{
+  "name": "Quinta Do Conde",
+  "gid": "ChIJk-gJschIGQ0RKST4hGt35b8",
+  "address": [
+    "R. Piteira Santos Nº11",
+    "2975-330 Q.ta do Conde"
+  ],
+  "region": "setubal",
+  "position": {
+    "lat": 38.564081099999996,
+    "lng": -9.0400583
+  }
+}

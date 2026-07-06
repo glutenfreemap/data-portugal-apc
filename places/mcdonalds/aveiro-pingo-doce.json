@@ -1,0 +1,13 @@
+{
+  "name": "Aveiro Pingo Doce",
+  "address": [
+    "Aveiro Pingo Doce",
+    "EN 109 - Parque Pingo Doce Hipermercados, Esgueira",
+    "3800-042 AVEIRO"
+  ],
+  "region": "aveiro",
+  "position": {
+    "lat": 40.651658,
+    "lng": -8.620597
+  }
+}

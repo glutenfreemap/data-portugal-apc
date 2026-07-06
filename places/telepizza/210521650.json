@@ -1,0 +1,12 @@
+{
+  "name": "Fernão Ferro",
+  "address": [
+    "Av 25 Abril Lt 505",
+    "2865-039 Fernao Ferro"
+  ],
+  "region": "setubal",
+  "position": {
+    "lat": 38.58435,
+    "lng": -9.09549
+  }
+}

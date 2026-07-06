@@ -1,0 +1,13 @@
+{
+  "name": "Monte Da Caparica",
+  "gid": "ChIJ9S5SA6bLHg0Ri8WjPN2A28g",
+  "address": [
+    "Rua do Facho 4",
+    "2825-080 Caparica"
+  ],
+  "region": "setubal",
+  "position": {
+    "lat": 38.665907499999996,
+    "lng": -9.196732599999999
+  }
+}

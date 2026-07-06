@@ -1,0 +1,13 @@
+{
+  "name": "Abrantes",
+  "address": [
+    "Abrantes",
+    "Avenida António Farinha Pereira, Lote 1 Alferrarede",
+    "2200-024 Abrantes"
+  ],
+  "region": "santarem",
+  "position": {
+    "lat": 39.475363,
+    "lng": -8.190586
+  }
+}

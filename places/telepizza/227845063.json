@@ -1,0 +1,13 @@
+{
+  "name": "Carvalhos",
+  "gid": "ChIJpezYJYl7JA0RopPU2lPSE68",
+  "address": [
+    "Av. Dr. Moreira Sousa 529B",
+    "4415-383 Pedroso"
+  ],
+  "region": "porto",
+  "position": {
+    "lat": 41.0689636,
+    "lng": -8.5768987
+  }
+}

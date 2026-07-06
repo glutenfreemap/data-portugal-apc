@@ -1,0 +1,12 @@
+{
+  "name": "Leiria",
+  "address": [
+    "Av N S Fatima Lt 15",
+    "2410-140 Leiria"
+  ],
+  "region": "leiria",
+  "position": {
+    "lat": 39.73769,
+    "lng": -8.80091
+  }
+}

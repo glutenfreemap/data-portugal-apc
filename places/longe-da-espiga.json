@@ -1,0 +1,23 @@
+{
+  "name": "Longe da Espiga",
+  "description": {
+    "pt": "",
+    "en": "",
+    "fr": "",
+    "es": ""
+  },
+  "gid": "ChIJ0ffGYKUrQwsRLkloXQ8xtrM",
+  "address": [
+    "R. Dr. Filipe da Cunha Álvares Cabral 5 Cave Esquerda",
+    "9500-182 Ponta Delgada"
+  ],
+  "region": "acores",
+  "position": {
+    "lat": 37.7382685,
+    "lng": -25.6804223
+  },
+  "categories": [
+    "bakery"
+  ],
+  "attestation": "apc-certified"
+}

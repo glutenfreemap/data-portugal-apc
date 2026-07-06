@@ -1,0 +1,12 @@
+{
+  "name": "Gafanha Da Nazaré",
+  "address": [
+    "Av Jose Estevao 451",
+    "3830-556 Ilhavo"
+  ],
+  "region": "aveiro",
+  "position": {
+    "lat": 40.6371974,
+    "lng": -8.7118423
+  }
+}

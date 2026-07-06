@@ -1,0 +1,12 @@
+{
+  "name": "Avenida 25 de Abril, 43",
+  "address": [
+    "Avenida 25 de Abril, 43",
+    "3750-101 Águeda"
+  ],
+  "region": "aveiro",
+  "position": {
+    "lat": 40.572862,
+    "lng": -8.442319
+  }
+}

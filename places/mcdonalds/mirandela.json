@@ -1,0 +1,12 @@
+{
+  "name": "Mirandela",
+  "address": [
+    "Mirandela",
+    "Rua Eng. Machado Vaz (EN15)"
+  ],
+  "region": "braganca",
+  "position": {
+    "lat": 41.485756,
+    "lng": -7.188398
+  }
+}

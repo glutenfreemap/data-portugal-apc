@@ -1,0 +1,13 @@
+{
+  "name": "Rua Luís de Camoes",
+  "gid": "ChIJV1X4ouRBGQ0RSC_4FgfDGs8",
+  "address": [
+    "Rua Luís de Camoes",
+    "2955-205 Pinhal Novo"
+  ],
+  "region": "setubal",
+  "position": {
+    "lat": 38.631171,
+    "lng": -8.917315
+  }
+}

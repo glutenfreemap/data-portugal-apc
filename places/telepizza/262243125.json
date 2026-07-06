@@ -1,0 +1,12 @@
+{
+  "name": "Peniche",
+  "address": [
+    "Rua Alexandre Herculano 26 A 28",
+    "2520-273 Peniche"
+  ],
+  "region": "leiria",
+  "position": {
+    "lat": 39.36001,
+    "lng": -9.37847
+  }
+}

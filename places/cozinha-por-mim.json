@@ -1,0 +1,23 @@
+{
+  "name": "Cozinha por Mim",
+  "description": {
+    "pt": "Comida ultra-congelada para levar.",
+    "en": "Ultra-frozen food to go.",
+    "fr": "Nourriture surgelée à emporter.",
+    "es": "Comida ultracongelada para llevar."
+  },
+  "gid": "ChIJg73cGebFHg0R3W0m6gN5ziY",
+  "address": [
+    "R. São José 3 B Loja 3",
+    "2750-623 Cascais"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.7095893,
+    "lng": -9.421008
+  },
+  "categories": [
+    "take-away"
+  ],
+  "attestation": "apc-certified"
+}

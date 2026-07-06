@@ -1,0 +1,13 @@
+{
+  "name": "Alameda Shopping",
+  "address": [
+    "Alameda Shopping, Loja 409",
+    "Av. dos Campeões Europeus, 28/ 198",
+    "4350-149 Porto"
+  ],
+  "region": "porto",
+  "position": {
+    "lat": 41.16397855,
+    "lng": -8.5838072503792
+  }
+}

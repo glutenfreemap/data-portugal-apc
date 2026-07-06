@@ -1,0 +1,13 @@
+{
+  "name": "Alverca Auchan",
+  "address": [
+    "Alverca - Hipermercado Jumbo",
+    "Galeria Comercial Jumbo, Lj.12, Estrada Nacional nº10",
+    "2615 ALVERCA"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.888383,
+    "lng": -9.044264
+  }
+}

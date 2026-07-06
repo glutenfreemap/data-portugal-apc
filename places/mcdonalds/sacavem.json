@@ -1,0 +1,13 @@
+{
+  "name": "Sacavém",
+  "address": [
+    "Sacavém",
+    "Rua Cidade de Goa, 22-24",
+    "2685-038 SACAVÉM"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.791586,
+    "lng": -9.103745
+  }
+}

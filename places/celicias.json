@@ -1,0 +1,23 @@
+{
+  "name": "Celícias",
+  "description": {
+    "pt": "",
+    "en": "",
+    "fr": "",
+    "es": ""
+  },
+  "gid": "ChIJTQ_QindlJA0RvmP6i0DDSco",
+  "address": [
+    "R. Machado dos Santos 639",
+    "4400-209 Vila Nova de Gaia"
+  ],
+  "region": "porto",
+  "position": {
+    "lat": 41.1274785,
+    "lng": -8.6318659
+  },
+  "categories": [
+    "bakery"
+  ],
+  "attestation": "apc-certified"
+}

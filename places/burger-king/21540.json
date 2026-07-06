@@ -1,0 +1,12 @@
+{
+  "name": "Avenida Cidade do Porto N230",
+  "address": [
+    "Avenida Cidade do Porto N230",
+    "4705-084 Braga"
+  ],
+  "region": "braga",
+  "position": {
+    "lat": 41.534615,
+    "lng": -8.437701
+  }
+}

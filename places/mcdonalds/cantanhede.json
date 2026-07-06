@@ -1,0 +1,13 @@
+{
+  "name": "Cantanhede",
+  "address": [
+    "Cantanhede",
+    "Rua Antonio Lima Fragoso 140",
+    "3060-216 Cantanhede"
+  ],
+  "region": "coimbra",
+  "position": {
+    "lat": 40.356097,
+    "lng": -8.589215
+  }
+}

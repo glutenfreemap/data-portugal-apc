@@ -1,0 +1,12 @@
+{
+  "name": "Viseu Palácio do Gelo",
+  "address": [
+    "Rua do Palácio do Gelo 3",
+    "3500-606 Viseu"
+  ],
+  "region": "viseu",
+  "position": {
+    "lat": 40.6441512,
+    "lng": -7.9116236
+  }
+}

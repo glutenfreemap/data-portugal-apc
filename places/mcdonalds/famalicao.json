@@ -1,0 +1,13 @@
+{
+  "name": "Famalicão",
+  "address": [
+    "Famalicão",
+    "Av. Engº Pinheiro Braga,nº41",
+    "4760-089 VILA NOVA DE FAMALICÃO"
+  ],
+  "region": "braga",
+  "position": {
+    "lat": 41.414889,
+    "lng": -8.520056
+  }
+}

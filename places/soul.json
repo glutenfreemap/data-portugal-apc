@@ -1,0 +1,23 @@
+{
+  "name": "Soul",
+  "description": {
+    "pt": "",
+    "en": "",
+    "fr": "",
+    "es": ""
+  },
+  "gid": "ChIJd_jP04b_JA0RhllYjJ_05nA",
+  "address": [
+    "Av. Central 162 Loja 6",
+    "4710-229 Braga"
+  ],
+  "region": "braga",
+  "position": {
+    "lat": 41.551437,
+    "lng": -8.4186808
+  },
+  "categories": [
+    "bakery"
+  ],
+  "attestation": "apc-certified"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Sport Hotel Gym + SPA",
+  "description": {
+    "pt": "",
+    "en": "",
+    "fr": "",
+    "es": ""
+  },
+  "gid": "ChIJpfiD8v4iPQ0RD6ebNYZe7I0",
+  "address": [
+    "Av. Frei Heitor Pinto Bloco A",
+    "6201-909 Covilhã"
+  ],
+  "region": "guarda",
+  "position": {
+    "lat": 40.2841093,
+    "lng": -7.5054775
+  },
+  "categories": [
+    "hotel"
+  ],
+  "attestation": "apc-certified"
+}

@@ -1,0 +1,122 @@
+[
+    {
+        "id": "lisboa",
+        "name": {
+            "pt": "Lisboa"
+        }
+    },
+    {
+        "id": "porto",
+        "name": {
+            "pt": "Porto"
+        }
+    },
+    {
+        "id": "braga",
+        "name": {
+            "pt": "Braga"
+        }
+    },
+    {
+        "id": "guarda",
+        "name": {
+            "pt": "Guarda"
+        }
+    },
+    {
+        "id": "acores",
+        "name": {
+            "pt": "Açores"
+        }
+    },
+    {
+        "id": "vila-real",
+        "name": {
+            "pt": "Vila Real"
+        }
+    },
+    {
+        "id": "coimbra",
+        "name": {
+            "pt": "Coimbra"
+        }
+    },
+    {
+        "id": "setubal",
+        "name": {
+            "pt": "Setúbal"
+        }
+    },
+    {
+        "id": "braganca",
+        "name": {
+            "pt": "Bragança"
+        }
+    },
+    {
+        "id": "castelo-branco",
+        "name": {
+            "pt": "Castelo Branco"
+        }
+    },
+    {
+        "id": "aveiro",
+        "name": {
+            "pt": "Aveiro"
+        }
+    },
+    {
+        "id": "faro",
+        "name": {
+            "pt": "Faro"
+        }
+    },
+    {
+        "id": "viseu",
+        "name": {
+            "pt": "Viseu"
+        }
+    },
+    {
+        "id": "leiria",
+        "name": {
+            "pt": "Leiria"
+        }
+    },
+    {
+        "id": "viana-do-castelo",
+        "name": {
+            "pt": "Viana do Castelo"
+        }
+    },
+    {
+        "id": "madeira",
+        "name": {
+            "pt": "Madeira"
+        }
+    },
+    {
+        "id": "beja",
+        "name": {
+            "pt": "Beja"
+        }
+    },
+    {
+        "id": "santarem",
+        "name": {
+            "pt": "Santarém"
+        }
+    },
+    {
+        "id": "evora",
+        "name": {
+            "pt": "Évora"
+        }
+    },
+    {
+        "id": "portalegre",
+        "name": {
+            "pt": "Portalegre"
+        }
+    }
+]

@@ -1,0 +1,13 @@
+{
+  "name": "Arena Shopping",
+  "address": [
+    "Torres Vedras - Arena Shopping",
+    "C.C.Arena Shopping,Casal dos Ameias de Cima,Lj.2.020/2.021",
+    "2560 TORRES VEDRAS"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 39.100983,
+    "lng": -9.253678
+  }
+}

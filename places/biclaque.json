@@ -1,0 +1,23 @@
+{
+  "name": "Biclaque",
+  "description": {
+    "pt": "",
+    "en": "",
+    "fr": "",
+    "es": ""
+  },
+  "gid": "ChIJF_FbJqfTJA0RpkP58j-nPus",
+  "address": [
+    "Rua do Complexo Turístico de Lamelas, 1",
+    "4870-110 Ribeira de Pena"
+  ],
+  "region": "vila-real",
+  "position": {
+    "lat": 41.50423000000001,
+    "lng": -7.801541599999999
+  },
+  "categories": [
+    "restaurant"
+  ],
+  "attestation": "apc-certified"
+}

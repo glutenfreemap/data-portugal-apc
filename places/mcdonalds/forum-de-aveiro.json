@@ -1,0 +1,13 @@
+{
+  "name": "Forum de Aveiro",
+  "address": [
+    "Forum Aveiro",
+    "Forum Aveiro, Loja 2.17, Piso nº1",
+    "3810-120 AVEIRO"
+  ],
+  "region": "aveiro",
+  "position": {
+    "lat": 40.640867,
+    "lng": -8.652614
+  }
+}

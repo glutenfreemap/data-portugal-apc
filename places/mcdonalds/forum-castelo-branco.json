@@ -1,0 +1,13 @@
+{
+  "name": "Fórum Castelo Branco",
+  "address": [
+    "Castelo Branco",
+    "Av. Professor Doutor Egas Moniz",
+    "6000-901 CASTELO BRANCO"
+  ],
+  "region": "castelo-branco",
+  "position": {
+    "lat": 39.812704,
+    "lng": -7.513242
+  }
+}

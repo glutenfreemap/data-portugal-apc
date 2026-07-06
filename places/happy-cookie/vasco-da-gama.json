@@ -1,0 +1,13 @@
+{
+  "name": "Stand Centro Comercial Vasco da Gama",
+  "gid": "ChIJzQqdVDcxGQ0RbFCFjbWTp9k",
+  "address": [
+    "Av. Dom João II 40",
+    "1990-036 Lisboa"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.7677295,
+    "lng": -9.0971405
+  }
+}

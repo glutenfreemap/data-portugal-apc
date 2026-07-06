@@ -1,0 +1,15 @@
+{
+  "name": "Entroncamento",
+  "gid": "ChIJsciS6sFjGA0R12imy02HE1A",
+  "address": [
+    "Av. Dr. José Eduardo Vítor das Neves Edif. Plaza",
+    "nº 11",
+    "R/C – Loja 2",
+    "2230-066 Entroncamento"
+  ],
+  "region": "santarem",
+  "position": {
+    "lat": 39.461179699999995,
+    "lng": -8.472283200000001
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Marquês de Pombal",
+  "address": [
+    "Lisboa",
+    "Praça Marquês de Pombal, nº3",
+    "1250-161 Lisboa"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.724569,
+    "lng": -9.150579
+  }
+}

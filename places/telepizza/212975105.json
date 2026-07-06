@@ -1,0 +1,13 @@
+{
+  "name": "Charneca Da Caparica",
+  "gid": "ChIJb7Q-7LRKGQ0RnZeAepjRMqg",
+  "address": [
+    "R. de Pedro Costa 1206",
+    "2820-185 Charneca de Caparica"
+  ],
+  "region": "setubal",
+  "position": {
+    "lat": 38.609166699999996,
+    "lng": -9.1880556
+  }
+}

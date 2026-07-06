@@ -1,0 +1,12 @@
+{
+  "name": "Gondomar",
+  "address": [
+    "R Dr Severiano 274",
+    "4510-554 Fanzeres"
+  ],
+  "region": "porto",
+  "position": {
+    "lat": 41.15971,
+    "lng": -8.52851
+  }
+}

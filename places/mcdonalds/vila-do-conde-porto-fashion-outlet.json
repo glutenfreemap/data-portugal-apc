@@ -1,0 +1,13 @@
+{
+  "name": "Vila do Conde - Porto Fashion Outlet",
+  "address": [
+    "Vila do Conde",
+    "Avenida Fonte Cova",
+    "4485-592 MODIVAS"
+  ],
+  "region": "porto",
+  "position": {
+    "lat": 41.301614,
+    "lng": -8.707171
+  }
+}

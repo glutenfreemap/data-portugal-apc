@@ -1,0 +1,14 @@
+{
+  "name": "Massamá",
+  "gid": "ChIJvYvOrdnNHg0R93jB0Y4hKsU",
+  "address": [
+    "Av. 25 de Abril 47 R/C Esq",
+    "Massamá",
+    "2745-384 Queluz"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.7515522,
+    "lng": -9.2795986
+  }
+}

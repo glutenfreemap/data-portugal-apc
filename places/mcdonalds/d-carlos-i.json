@@ -1,0 +1,13 @@
+{
+  "name": "D Carlos I",
+  "address": [
+    "Av. D Carlos I",
+    "Av. D. Carlos I, 17-25",
+    "1200-676 LISBOA"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.707019,
+    "lng": -9.152803
+  }
+}

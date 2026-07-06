@@ -1,0 +1,13 @@
+{
+  "name": "Ílhavo",
+  "address": [
+    "Ilhavo",
+    "Via do Mercado,  Ílhavo",
+    "3830-243 Ilhavo"
+  ],
+  "region": "aveiro",
+  "position": {
+    "lat": 40.597281,
+    "lng": -8.664714
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Avenida de Roma, 74B",
+  "address": [
+    "Avenida de Roma, 74B",
+    "1700-333 Lisboa"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.751153,
+    "lng": -9.142677
+  }
+}

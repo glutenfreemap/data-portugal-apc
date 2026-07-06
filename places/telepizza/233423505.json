@@ -1,0 +1,13 @@
+{
+  "name": "Figueira Da Foz",
+  "gid": "ChIJZdRYZ5Y3Ig0R3CeRpjkLPwc",
+  "address": [
+    "R. Dr. Calado 82",
+    "3080-153 Figueira da Foz"
+  ],
+  "region": "coimbra",
+  "position": {
+    "lat": 40.1505007,
+    "lng": -8.8654462
+  }
+}

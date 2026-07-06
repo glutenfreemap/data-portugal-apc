@@ -1,0 +1,13 @@
+{
+  "name": "Vila Real",
+  "address": [
+    "Vila Real",
+    "Av. da Universidade, Tourinhas",
+    "5000-000 VILA REAL"
+  ],
+  "region": "vila-real",
+  "position": {
+    "lat": 41.292297,
+    "lng": -7.735783
+  }
+}

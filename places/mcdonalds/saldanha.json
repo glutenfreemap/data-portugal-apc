@@ -1,0 +1,13 @@
+{
+  "name": "Saldanha",
+  "address": [
+    "Saldanha",
+    "Av. Da República, 10-F",
+    "1050-191 LISBOA"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.735489,
+    "lng": -9.144773
+  }
+}

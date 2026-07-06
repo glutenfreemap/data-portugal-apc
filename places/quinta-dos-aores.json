@@ -1,0 +1,23 @@
+{
+  "name": "Quinta dos Açores",
+  "gid": "ChIJrQ2q6tQqQwsRPlcYaltKFTc",
+  "attestation": "apc-certified",
+  "address": [
+    "Caminho da Levada, 134",
+    "9500-081 Ponta Delgada"
+  ],
+  "region": "acores",
+  "position": {
+    "lat": 37.7575836,
+    "lng": -25.6641407
+  },
+  "description": {
+    "pt": "<p>Venda de alguns produtos de carne certificados sem glúten.</p>",
+    "fr": "<p>Vente de certains produits carnés certifiés sans gluten.</p>",
+    "en": "<p>Selling some certified gluten-free meat products.</p>",
+    "es": "<p>Venta de algunos productos cárnicos certificados sin gluten.</p>"
+  },
+  "categories": [
+    "butchery"
+  ]
+}

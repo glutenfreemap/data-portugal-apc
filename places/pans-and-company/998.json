@@ -1,0 +1,12 @@
+{
+  "name": "MarShopping",
+  "address": [
+    "Lj 1.052 Av. Arq. Fernando Távora Leça da Palmeira",
+    "4450-337 Matosinhos"
+  ],
+  "region": "porto",
+  "position": {
+    "lat": 41.2093239,
+    "lng": -8.6895315
+  }
+}

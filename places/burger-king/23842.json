@@ -1,0 +1,12 @@
+{
+  "name": "AEROPORTO DE FARO",
+  "address": [
+    "AEROPORTO DE FARO",
+    "8005-146 Faro"
+  ],
+  "region": "faro",
+  "position": {
+    "lat": 37.008667,
+    "lng": -7.959496
+  }
+}

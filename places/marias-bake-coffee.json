@@ -1,0 +1,23 @@
+{
+  "name": "Maria's Bake & Coffee",
+  "description": {
+    "pt": "",
+    "en": "",
+    "fr": "",
+    "es": ""
+  },
+  "gid": "ChIJcwoZjjDLGg0RDOD38AcWtA8",
+  "address": [
+    "Beco das Tres Marias",
+    "8200-609 Olhos de Água"
+  ],
+  "region": "faro",
+  "position": {
+    "lat": 37.0937606,
+    "lng": -8.1999482
+  },
+  "categories": [
+    "bakery"
+  ],
+  "attestation": "apc-certified"
+}

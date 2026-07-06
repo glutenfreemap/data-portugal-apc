@@ -1,0 +1,13 @@
+{
+  "name": "Vila do Conde",
+  "address": [
+    "Vila do Conde",
+    "Avenida Portas Fronhas-EN13",
+    "4480-004 VILA DO CONDE"
+  ],
+  "region": "porto",
+  "position": {
+    "lat": 41.367667,
+    "lng": -8.750144
+  }
+}

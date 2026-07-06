@@ -1,0 +1,12 @@
+{
+  "name": "Quinta Do Anjo",
+  "address": [
+    "Rua João Vaz Corte Real Lote 163",
+    "2950-559 Palmela"
+  ],
+  "region": "setubal",
+  "position": {
+    "lat": 38.5658838,
+    "lng": -8.9528774
+  }
+}
