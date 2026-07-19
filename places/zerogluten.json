@@ -1,0 +1,18 @@
+{
+  "name": "ZeroGluten",
+  "gid": "ChIJVQzHFADbHg0RKk4I6As_8ks",
+  "attestation": "apc-certified",
+  "address": [
+    "R. Tomé de Barros Queirós",
+    "2710-624 Sintra"
+  ],
+  "region": "lisboa",
+  "position": {
+    "lat": 38.8034282,
+    "lng": -9.3806499
+  },
+  "categories": [
+    "take-away",
+    "bakery"
+  ]
+}
