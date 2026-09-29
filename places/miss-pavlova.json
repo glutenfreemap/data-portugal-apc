@@ -1,0 +1,17 @@
+{
+  "name": "Miss Pavlova",
+  "gid": "ChIJFRvDCohlJA0RhYR0fk5X4SU",
+  "attestation": "apc-certified",
+  "address": [
+    "R. Sara Afonso 105-107 Piso 1",
+    "4460-841 Sra. da Hora"
+  ],
+  "region": "porto",
+  "position": {
+    "lat": 41.1805366,
+    "lng": -8.6552572
+  },
+  "categories": [
+    "bakery"
+  ]
+}
