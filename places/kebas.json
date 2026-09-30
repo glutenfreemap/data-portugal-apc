@@ -1,0 +1,15 @@
+{
+  "name": "kebas",
+  "attestation": "apc-certified",
+  "address": [
+    "fefe"
+  ],
+  "region": "braga",
+  "position": {
+    "lat": 39.60166134561638,
+    "lng": -8.263841306186578
+  },
+  "categories": [
+    "bakery"
+  ]
+}
