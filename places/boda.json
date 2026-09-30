@@ -1,0 +1,15 @@
+{
+  "name": "boda",
+  "attestation": "apc-validated",
+  "address": [
+    "gegeg"
+  ],
+  "region": "porto",
+  "position": {
+    "lat": 39.58666521774063,
+    "lng": -8.265291191268943
+  },
+  "categories": [
+    "take-away"
+  ]
+}
